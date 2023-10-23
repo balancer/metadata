@@ -1,7 +1,8 @@
 [
   {
     "id": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014",
-    "imageUrl": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+    "imageUrl": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+    "primary": true
   },
   {
     "id": "0x1e19cf2d73a72ef1332c882f20534b6519be0276000200000000000000000112",
