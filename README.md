@@ -1,3 +1,3 @@
 # metadata
 
-Balancer public metadata for use in frontend.
+Public metadata for the Balancer protocol.
