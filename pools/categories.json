@@ -3,5 +3,10 @@
     "id": "lrt",
     "name": "LRTs",
     "description": "Liquid Restaking Tokens"
+  },
+  {
+    "id": "points",
+    "name": "Points",
+    "description": "Receives 3rd party points"
   }
 ]

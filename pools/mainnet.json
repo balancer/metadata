@@ -15,7 +15,7 @@
     "name": "weETH/ezETH/rswETH",
     "vaultVersion": "2",
     "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
-    "categories": ["lrt"]
+    "categories": ["lrt", "points"]
   },
   {
     "name": "rsETH/ETHx",
@@ -33,6 +33,18 @@
     "name": "svETH/wstETH",
     "vaultVersion": "2",
     "id": "0xdedb11a6a23263469567c2881a9b9f8629ee0041000000000000000000000669",
+    "categories": ["lrt"]
+  },
+  {
+    "name": "WETH/uniETH",
+    "vaultVersion": "2",
+    "id": "0xdd59f89b5b07b7844d72996fc9d83d81acc8219600000000000000000000059e",
+    "categories": ["lrt"]
+  },
+  {
+    "name": "WETH/weETH",
+    "vaultVersion": "2",
+    "id": "0xb9debddf1d894c79d2b2d09f819ff9b856fca55200000000000000000000062a",
     "categories": ["lrt"]
   }
 ]
