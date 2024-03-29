@@ -21,7 +21,85 @@
     "name": "rsETH/ETHx",
     "vaultVersion": "2",
     "id": "0x7761b6e0daa04e70637d81f1da7d186c205c2ade00000000000000000000065d",
-    "categories": ["lrt"]
+    "categories": ["lrt", "points"]
+  },
+  {
+    "name": "rsETH/WETH",
+    "vaultVersion": "2",
+    "id": "0x58aadfb1afac0ad7fca1148f3cde6aedf5236b6d00000000000000000000067f",
+    "categories": ["points"]
+  },
+  {
+    "name": "USDC/GYD",
+    "vaultVersion": "2",
+    "id": "0xc2aa60465bffa1a88f5ba471a59ca0435c3ec5c100020000000000000000062c",
+    "categories": ["points"]
+  },
+  {
+    "name": "USDT/GYD",
+    "vaultVersion": "2",
+    "id": "0xfbfad5fa9e99081da6461f36f229b5cc88a64c6300020000000000000000062d",
+    "categories": ["points"]
+  },
+  {
+    "name": "sDAI/GYD",
+    "vaultVersion": "2",
+    "id": "0x1cce5169bde03f3d5ad0206f6bd057953539dae600020000000000000000062b",
+    "categories": ["points"]
+  },
+  {
+    "name": "GHO/GYD",
+    "vaultVersion": "2",
+    "id": "0xaa7a70070e7495fe86c67225329dbd39baa2f63b000200000000000000000663",
+    "categories": ["points"]
+  },
+  {
+    "name": "stataEthUSDT/GYD",
+    "vaultVersion": "2",
+    "id": "0x7f2b3b7fbd3226c5be438cde49a519f442ca2eda00020000000000000000067d",
+    "categories": ["points"]
+  },
+  {
+    "name": "wstETH/WETH",
+    "vaultVersion": "2",
+    "id": "0xf01b0684c98cd7ada480bfdf6e43876422fa1fc10002000000000000000005de",
+    "categories": ["points"]
+  },
+  {
+    "name": "wstETH/swETH",
+    "vaultVersion": "2",
+    "id": "0x127ecc2318d002664cc4515c9f2b22b09b6aea85000200000000000000000602",
+    "categories": ["points"]
+  },
+  {
+    "name": "wstETH/swETH",
+    "vaultVersion": "2",
+    "id": "0x127ecc2318d002664cc4515c9f2b22b09b6aea85000200000000000000000602",
+    "categories": ["points"]
+  },
+  {
+    "name": "stataOptUSDT/stataOptUSDCn",
+    "vaultVersion": "2",
+    "id": "0x8bb826afc0ff7d2c034a2883f4c461ffd238e1c300020000000000000000012b",
+    "categories": ["points"]
+  },
+  {
+    "name": "stataPolUSDCn/stataPolUSDT",
+    "vaultVersion": "2",
+    "id": "0xf6394a1ebabf706eb471ff09cef357cd2ff6bd61000200000000000000000e3f",
+    "categories": ["points"]
+  },
+  {
+    "name": "wstETH/WETH",
+    "vaultVersion": "2",
+    "id": "0xd25c02e5704e87fa7ca2727730e7ca6cc733339e000200000000000000000519",
+    "categories": ["points"]
+  },
+  {
+    "name": "stataArbUSDCn/stataArbUSDT",
+    "vaultVersion": "2",
+    "id": "0x125bc5a031b2db6733bfa35d914ffa428095978b000200000000000000000514",
+    "categories": ["points"]
   },
   {
     "name": "vETH/wstETH",
