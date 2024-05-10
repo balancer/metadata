@@ -1,28 +1,33 @@
 [
   {
-    "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
-    "primary": true,
-    "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
-    "chainId": 1
-  },
-  {
-    "id": "0x32df62dc3aed2cd6224193052ce665dc181658410002000000000000000003bd",
+    "id": "0xfb2f7ed572589940e24c5711c002adc59d5e79ef000000000000000000000535",
     "imageUrl": "https://v3.balancer.fi/images/chains/ARBITRUM.svg",
-    "chainId": 42161
+    "chainId": 42161,
+    "primary": true,
+    "description": "Liquid staked $SOL on an L2" 
+  },  
+  {
+    "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
+    "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
+    "chainId": 1,
+    "description": "For LRT points maxxing" 
   },
   {
     "id": "0x7ca75bdea9dede97f8b13c6641b768650cb837820002000000000000000000d5",
     "imageUrl": "https://v3.balancer.fi/images/chains/OPTIMISM.svg",
-    "chainId": 10
+    "chainId": 10,
+    "description": "For concentrated liquidity enjoyooors" 
   },
   {
     "id": "0xc771c1a5905420daec317b154eb13e4198ba97d0000000000000000000000023",
     "imageUrl": "https://v3.balancer.fi/images/chains/BASE.svg",
-    "chainId": 8453
+    "chainId": 8453,
+    "description": "A top TVL pool on Base" 
   },
   {
     "id": "0x0df1be54b29aa9828bea1de6a6dfe3d03ec63082000100000000000000000047",
     "imageUrl": "https://v3.balancer.fi/images/chains/AVALANCHE.svg",
-    "chainId": 43114
+    "chainId": 43114,
+    "description": "Avalanche meme coin index" 
   }
 ]
