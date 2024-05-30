@@ -4,19 +4,19 @@
     "imageUrl": "https://v3.balancer.fi/images/chains/ARBITRUM.svg",
     "chainId": 42161,
     "primary": true,
-    "description": "Liquid staked $SOL on an L2" 
+    "description": "Liquid staked $SOL on Arbitrum" 
   },  
   {
     "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
     "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
     "chainId": 1,
-    "description": "For LRT points maxxing" 
+    "description": "For LRT points" 
   },
   {
     "id": "0x7ca75bdea9dede97f8b13c6641b768650cb837820002000000000000000000d5",
     "imageUrl": "https://v3.balancer.fi/images/chains/OPTIMISM.svg",
     "chainId": 10,
-    "description": "For concentrated liquidity enjoyooors" 
+    "description": "Yield-bearing concentrated liquidity" 
   },
   {
     "id": "0xc771c1a5905420daec317b154eb13e4198ba97d0000000000000000000000023",
