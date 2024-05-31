@@ -8,5 +8,10 @@
     "id": "points",
     "name": "Points",
     "description": "Receives 3rd party points"
+  },
+  {
+    "id": "ve8020",
+    "name": "ve8020",
+    "description": "Vote Escrow Pool Tokens"
   }
 ]
