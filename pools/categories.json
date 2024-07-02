@@ -17,6 +17,7 @@
   {
     "id": "blacklisted",
     "name": "Blacklisted",
-    "description": "Blacklisted Pools"
+    "description": "Blacklisted Pools",
+    "file": "blacklisted.json"
   }
 ]
