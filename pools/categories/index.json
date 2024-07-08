@@ -10,6 +10,13 @@
     "description": "Receives 3rd party points"
   },
   {
+    "id": "points_eigenlayer",
+    "name": "Points (Eigenlayer)",
+    "description": "Receives Eigenlayer points",
+    "url": "https://www.eigenlayer.xyz",
+    "file": "points_eigenlayer.json"
+  },
+  {
     "id": "ve8020",
     "name": "ve8020",
     "description": "Vote Escrow Pool Tokens"
