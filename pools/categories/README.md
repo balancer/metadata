@@ -2,7 +2,7 @@
 
 ## Adding a new category
 
-To add a new category, add a new object to the `index.json` file that confirms
+To add a new category, add a new object to the `index.json` file that conforms
 to the following schema:
 
 ```ts
