@@ -14,42 +14,48 @@
     "name": "Points (Eigenlayer)",
     "description": "Receives Eigenlayer points",
     "url": "https://www.eigenlayer.xyz",
-    "file": "points_eigenlayer.json"
+    "file": "points_eigenlayer.json",
+    "fileIcon": "points_eigenlayer.jpg"
   },
   {
     "id": "points_swell",
     "name": "Points (Swell)",
     "description": "Receives Swell points",
     "url": "https://www.swellnetwork.io",
-    "file": "points_swell.json"
+    "file": "points_swell.json",
+    "fileIcon": "points_swell.jpg"
   },
   {
     "id": "points_gyro",
     "name": "Points (Gyro)",
     "description": "LPs earn Gyroscope SPIN on the TVL of the pool.",
     "url": "https://gyro.finance",
-    "file": "points_gyro.json"
+    "file": "points_gyro.json",
+    "fileIcon": "points_gyro.png"
   },
   {
     "id": "points_renzo",
     "name": "Points (Renzo)",
     "description": "LPs earn ezPoints on the TVL of the pool",
     "url": "https://www.renzoprotocol.com",
-    "file": "points_renzo.json"
+    "file": "points_renzo.json",
+    "fileIcon": "points_renzo.jpg"
   },
   {
     "id": "points_kelp",
     "name": "Points (Kelp)",
     "description": "LPs earn Miles on the TVL of the pool. The Miles boost increases rewards based on the total pool capital, not just rsETH. Your daily Kelp Miles value is calculated by multiplying the effective rsETH balance by 10,000 times the boost value. Your Miles are then distributed based on your share of the liquidity pool.",
     "url": "https://kelpdao.xyz",
-    "file": "points_kelp.json"
+    "file": "points_kelp.json",
+    "fileIcon": "points_kelp.jpg"
   },
   {
     "id": "superfest",
     "name": "Superfest",
     "description": "This summer the Optimism Collective will allocate 1.5M OP rewards to spur exploration and activity across OP Mainnet, Base, Mode, and Fraxtal.",
     "url": "https://jumper.exchange/superfest",
-    "file": "superfest.json"
+    "file": "superfest.json",
+    "fileIcon": "superfest.svg"
   },
   {
     "id": "ve8020",
