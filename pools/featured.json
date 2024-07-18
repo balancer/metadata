@@ -7,10 +7,10 @@
     "description": "Elliptical Concentrated Liquidity"
   },
   {
-    "id": "0x596192bb6e41802428ac943d2f1476c1af25cc0e000000000000000000000659",
+    "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
     "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
     "chainId": 1,
-    "description": "Yield bearing LRT Pool"
+    "description": "Liquid Restaking Tri Pool"
   },
   {
     "id": "0xb819feef8f0fcdc268afe14162983a69f6bf179e000000000000000000000689",
