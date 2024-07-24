@@ -64,6 +64,14 @@
     "file": "ve8020.json"
   },
   {
+    "id": "points_mode",
+    "name": "Mode Points",
+    "description": "LPs in this pool earn Mode points on the TVL of the pool (Mode and USDC) and earn a weekly share of $OP when the BPT is staked on the Mode dashboard for an additional point multiplier.",
+    "url": "https://app.mode.network/early/",
+    "file": "points_mode.json",
+    "fileIcon": "points_mode.svg"
+  },
+  {
     "id": "blacklisted",
     "name": "Blacklisted",
     "description": "Blacklisted Pools",
