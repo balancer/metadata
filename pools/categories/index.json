@@ -76,5 +76,11 @@
     "name": "Blacklisted",
     "description": "Blacklisted Pools",
     "file": "blacklisted.json"
+  },
+  {
+    "id": "arbitrum_grants",
+    "name": "Arbitrum Grants",
+    "description": "Pools receiving $ARB",
+    "file": "arbitrum_grants.json"
   }
 ]
