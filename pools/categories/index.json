@@ -74,7 +74,7 @@
   {
     "id": "points_elixir",
     "name": "Elixir Potions",
-    "description": "LPs earn 3.75x potions on the TVL of the pool",
+    "description": "LPs earn potions on the TVL of the pool",
     "url": "https://elixir.xyz",
     "file": "points_elixir.json",
     "fileIcon": "points_elixir.jpeg"
