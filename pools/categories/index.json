@@ -72,6 +72,14 @@
     "fileIcon": "points_mode.svg"
   },
   {
+    "id": "potions_elixir",
+    "name": "Elixir Potions",
+    "description": "LPs earn potions on the TVL of the pool",
+    "url": "https://elixir.xyz",
+    "file": "potions_elixir.json",
+    "fileIcon": "potions_elixir.jpeg"
+  },
+  {
     "id": "blacklisted",
     "name": "Blacklisted",
     "description": "Blacklisted Pools",
