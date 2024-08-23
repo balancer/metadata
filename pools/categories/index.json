@@ -36,7 +36,7 @@
   {
     "id": "points_renzo",
     "name": "Points (Renzo)",
-    "description": "LPs in this pool get their of 1x points on the amount of ezEth held in the pool",
+    "description": "LPs in this pool earn 1x points on the amount of ezEth liquidity provided to the pool",
     "url": "https://www.app.renzoprotocol.com",
     "file": "points_renzo.json",
     "fileIcon": "points_renzo.jpg"
