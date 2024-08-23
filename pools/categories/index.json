@@ -36,8 +36,16 @@
   {
     "id": "points_renzo",
     "name": "Points (Renzo)",
-    "description": "LPs earn ezPoints on the TVL of the pool",
-    "url": "https://www.renzoprotocol.com",
+    "description": "LPs in this pool get their of 1x points on the amount of ezEth held in the pool",
+    "url": "https://www.app.renzoprotocol.com",
+    "file": "points_renzo.json",
+    "fileIcon": "points_renzo.jpg"
+  },
+  {
+    "id": "points_renzo_4x",
+    "name": "Points (Renzo)",
+    "description": "LPs in this pool earn 4x ezPoints on the TVL provided to the pool (wEth + ezEth)",
+    "url": "https://www.app.renzoprotocol.com",
     "file": "points_renzo.json",
     "fileIcon": "points_renzo.jpg"
   },
