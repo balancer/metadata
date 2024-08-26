@@ -46,7 +46,7 @@
     "name": "Points (Renzo)",
     "description": "LPs in this pool earn 4x ezPoints on the TVL provided to the pool (wEth + ezEth)",
     "url": "https://www.app.renzoprotocol.com",
-    "file": "points_renzo.json",
+    "file": "points_renzo_4x.json",
     "fileIcon": "points_renzo.jpg"
   },
   {
