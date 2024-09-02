@@ -101,10 +101,11 @@
     "description": "Pools receiving $ARB",
     "file": "arbitrum_grants.json"
   },
-    {
+  {
     "id": "avalanche_rewards",
     "name": "Avalanche Rewards",
     "description": "AVAX LSTs receiving extra rewards",
-    "file": "avax_lsts.json"
+    "file": "avax_lsts.json",
+    "fileIcon": "avax_lsts.svg"
   }
 ]
