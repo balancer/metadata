@@ -20,6 +20,13 @@ type Category = {
 ```
 To associate your category with a set of pools, add a json file [here](https://github.com/balancer/metadata/tree/main/pools/categories) that includes an array of pool IDs. Then reference that file name in the above schema for the `file` attribute.
 
+#### Adding a category icon
+
+To add an icon to be used for a category, add a new file to the /icons directory with
+the ID of the category as its name, e.g. my_category_id.svg. Then add the
+`iconFile` property to the category object in `index.json`.
+
+
 #### Creating a points category
 Categories are generic pool <> metadata associations that are ingested by the API. We use these categories for specific use cases like 3rd party point programs. To add a new point program category there are a couple of things to pay attention to.
 1. The `id` should include `points`, preferably as a prepend, e.g. `id: "points_protocol_name"`.
