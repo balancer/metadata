@@ -96,10 +96,10 @@
     "file": "blacklisted.json"
   },
   {
-    "id": "arbitrum_grants",
-    "name": "Arbitrum Grants",
-    "description": "Pools receiving $ARB",
-    "file": "arbitrum_grants.json"
+    "id": "avalanche_rewards",
+    "name": "Avalanche Rewards",
+    "description": "AVAX LSTs receiving extra rewards",
+    "file": "avax_lsts.json"
   },
   {
     "id": "avalanche_rewards",
