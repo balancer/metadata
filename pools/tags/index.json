@@ -1,0 +1,197 @@
+[
+    {
+        "id": "lrt",
+        "name": "LRTs",
+        "description": "Liquid Restaking Tokens"
+    },
+    {
+        "id": "points",
+        "name": "Points",
+        "description": "Receives 3rd party points"
+    },
+    {
+        "id": "points_eigenlayer",
+        "name": "Points (Eigenlayer)",
+        "description": "Receives Eigenlayer points",
+        "url": "https://www.eigenlayer.xyz",
+        "file": "points_eigenlayer.json",
+        "fileIcon": "points_eigenlayer.jpg",
+        "pools": [
+            "0xb61371ab661b1acec81c699854d2f911070c059e000000000000000000000516",
+            "0x90e6cb5249f5e1572afbf8a96d8a1ca6acffd73900000000000000000000055c",
+            "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
+            "0x596192bb6e41802428ac943d2f1476c1af25cc0e000000000000000000000659",
+            "0x58aadfb1afac0ad7fca1148f3cde6aedf5236b6d00000000000000000000067f",
+            "0x73a7fe27fe9545d53924e529acf11f3073841b9e000000000000000000000133"
+        ]
+    },
+    {
+        "id": "points_swell",
+        "name": "Points (Swell)",
+        "description": "Receives Swell points",
+        "url": "https://www.swellnetwork.io",
+        "file": "points_swell.json",
+        "fileIcon": "points_swell.jpg",
+        "pools": [
+            "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
+            "0x127ecc2318d002664cc4515c9f2b22b09b6aea85000200000000000000000602"
+        ]
+    },
+    {
+        "id": "points_gyro",
+        "name": "Points (Gyro)",
+        "description": "LPs earn Gyroscope SPIN on the TVL of the pool.",
+        "url": "https://gyro.finance",
+        "file": "points_gyro.json",
+        "fileIcon": "points_gyro.png",
+        "pools": [
+            "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f000200000000000000000549",
+            "0x6e822c64c00393b2078f2a5bb75c575ab505b55c000200000000000000000548",
+            "0xef0c116a2818a5b1a5d836a291856a321f43c2fb00020000000000000000053a",
+            "0x395aad0582cd035c6c75ae32043bb83423ddd6f800020000000000000000054c",
+            "0xc2aa60465bffa1a88f5ba471a59ca0435c3ec5c100020000000000000000062c",
+            "0xfbfad5fa9e99081da6461f36f229b5cc88a64c6300020000000000000000062d",
+            "0x1cce5169bde03f3d5ad0206f6bd057953539dae600020000000000000000062b",
+            "0xaa7a70070e7495fe86c67225329dbd39baa2f63b000200000000000000000663",
+            "0x7f2b3b7fbd3226c5be438cde49a519f442ca2eda00020000000000000000067d",
+            "0xf01b0684c98cd7ada480bfdf6e43876422fa1fc10002000000000000000005de",
+            "0x127ecc2318d002664cc4515c9f2b22b09b6aea85000200000000000000000602",
+            "0x8bb826afc0ff7d2c034a2883f4c461ffd238e1c300020000000000000000012b",
+            "0xf6394a1ebabf706eb471ff09cef357cd2ff6bd61000200000000000000000e3f",
+            "0xd25c02e5704e87fa7ca2727730e7ca6cc733339e000200000000000000000519",
+            "0x125bc5a031b2db6733bfa35d914ffa428095978b000200000000000000000514",
+            "0xae2d97cbbc13b67988eced2aba0f6939655ed3de00020000000000000000068b",
+            "0xee278d943584dd8640eaf4cc6c7a5c80c0073e85000200000000000000000bc7",
+            "0xf596ac9c9b60f9c555b8290c2b039c275396afb4000200000000000000000068",
+            "0xd4ec150896f1784b5be2b3af460d2cb2b8c0f522000200000000000000000069",
+            "0xe58cd0c79cdff6252476b3445bee1400503e0ae0000200000000000000000066",
+            "0x9f826c576b1f821df31ca6d58c9443db25a81d65000200000000000000000064"
+        ]
+    },
+    {
+        "id": "points_renzo",
+        "name": "Points (Renzo)",
+        "description": "LPs in this pool earn 1x points on the amount of ezEth liquidity provided to the pool",
+        "value": "1",
+        "url": "https://www.app.renzoprotocol.com",
+        "file": "points_renzo.json",
+        "fileIcon": "points_renzo.jpg",
+        "pools": ["0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a"]
+    },
+    {
+        "id": "points_renzo_4x",
+        "name": "Points (Renzo)",
+        "description": "LPs in this pool earn 4x ezPoints on the TVL provided to the pool (wEth + ezEth)",
+        "value": "4",
+        "url": "https://www.app.renzoprotocol.com",
+        "file": "points_renzo_4x.json",
+        "fileIcon": "points_renzo.jpg",
+        "pools": [
+            "0xb61371ab661b1acec81c699854d2f911070c059e000000000000000000000516",
+            "0x596192bb6e41802428ac943d2f1476c1af25cc0e000000000000000000000659"
+        ]
+    },
+    {
+        "id": "points_kelp",
+        "name": "Points (Kelp)",
+        "description": "LPs earn Miles on the TVL of the pool. The Miles boost increases rewards based on the total pool capital, not just rsETH. Your daily Kelp Miles value is calculated by multiplying the effective rsETH balance by 10,000 times the boost value. Your Miles are then distributed based on your share of the liquidity pool.",
+        "url": "https://kelpdao.xyz",
+        "file": "points_kelp.json",
+        "fileIcon": "points_kelp.jpg",
+        "pools": [
+            "0x90e6cb5249f5e1572afbf8a96d8a1ca6acffd73900000000000000000000055c",
+            "0x7761b6e0daa04e70637d81f1da7d186c205c2ade00000000000000000000065d",
+            "0x7761b6e0daa04e70637d81f1da7d186c205c2ade00000000000000000000065d",
+            "0x73a7fe27fe9545d53924e529acf11f3073841b9e000000000000000000000133"
+        ]
+    },
+    {
+        "id": "ve8020",
+        "name": "ve8020",
+        "description": "Vote Escrow Pool Tokens",
+        "file": "ve8020.json",
+        "pools": [
+            "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014",
+            "0x9232a548dd9e81bac65500b5e0d918f8ba93675c000200000000000000000423",
+            "0xd689abc77b82803f22c49de5c8a0049cc74d11fd000200000000000000000524",
+            "0x39eb558131e5ebeb9f76a6cbf6898f6e6dce5e4e0002000000000000000005c8",
+            "0x57766212638c425e9cb0c6d6e1683dda369c0fff000200000000000000000678",
+            "0xb204bf10bc3a5435017d3db247f56da601dfe08a0002000000000000000000fe"
+        ]
+    },
+    {
+        "id": "points_mode",
+        "name": "Mode Points",
+        "description": "LPs in this pool earn Mode points on the TVL of the pool (Mode and USDC) and earn a weekly share of $OP when the BPT is staked on the Mode dashboard for an additional point multiplier.",
+        "url": "https://app.mode.network/early/",
+        "file": "points_mode.json",
+        "fileIcon": "points_mode.svg",
+        "pools": ["0xa4781148e4a8a0903d795464e5c206a7f33851ba000200000000000000000008"]
+    },
+    {
+        "id": "points_elixir",
+        "name": "Elixir Potions",
+        "description": "LPs earn potions on the TVL of the pool",
+        "url": "https://elixir.xyz",
+        "file": "points_elixir.json",
+        "fileIcon": "points_elixir.jpeg",
+        "pools": ["0x41fdbea2e52790c0a1dc374f07b628741f2e062d0002000000000000000006be"]
+    },
+    {
+        "id": "blacklisted",
+        "name": "Blacklisted",
+        "description": "Blacklisted Pools",
+        "file": "blacklisted.json",
+        "pools": [
+            "0x5470f064a19c65263b3033da3a6124fdf0a9bab80000000000000000000000e6",
+            "0x4136e861e0ad0642cb2f16962540a7808bbade53000000000000000000000102",
+            "0x7ad4f5536d903aea6f973f36e18f5b4610a7583e000100000000000000000000",
+            "0xdcd803c0ad8778662c0a53b4daed81ab9ef06834000200000000000000000001",
+            "0x64cee2338369aa9b36fc756ea231eb9bc242926f0000000000000000000000df",
+            "0x7fe29a818438ed2759e30f65c2302295711d66fc0000000000000000000000e5",
+            "0xcb89e89d798a4563d1599ea5508282e13b225b520000000000000000000000e4",
+            "0x362715c164d606682c4ea7e479633e419d9345eb0001000000000000000000e7",
+            "0x8b6d3aa69c1cf47677281691b1abf3831ba1329d0001000000000000000000d0",
+            "0x57793d39e8787ee6295f6a27a81b6cca68e85cdf000000000000000000000397",
+            "0x8d13d878e44e8005efc0db4a831b95f84cb4b1540000000000000000000003c6",
+            "0x198a22e73aadd2d0ea8e2963799d38ae26adee2e000000000000000000000577",
+            "0x5018fa8aa910fa2eea07529d80e7a44b2e2d29cf000100000000000000000022",
+            "0x44290e47211924c089dbf06eba0bb65a6032716d0002000000000000000000dd",
+            "0x342a7b8694a8c51b15dc2a05fbe8397a435a81060002000000000000000001a2",
+            "0x5c80751ee571b8e65850466c2d904f7c5ee116900002000000000000000001a0",
+            "0x51c5875ee17f1af4ddca0ce0df8dcad0b115b191000100000000000000000012",
+            "0x6b2069cfec8c03aa6112b9210535e7c44f80544f000200000000000000000494",
+            "0x8082f22042aa9272083e50311387f82e1e11a55c0002000000000000000000de",
+            "0x95af08f569cf73e76ec2229953fcde5281051f52000200000000000000000492",
+            "0x9a8f6d18c55f2f117170390c74e67200777889000002000000000000000005cf",
+            "0x9b46689b6a38c832e9daf92faf4921e845ed31db0002000000000000000000df",
+            "0xae1c69eae0f1342425ea3fdb51e9f11223c7ad5b00010000000000000000000b",
+            "0x07fc9e1a6236a400a28956d4d924f68dadc329d8000200000000000000000109",
+            "0xadba8867b6ff64ee650caf87dd3e943ed732901800010000000000000000001c",
+            "0xb525061c307f22571bb7526fd94c2ef0efd9cff30002000000000000000000db",
+            "0x4e415957aa4fd703ad701e43ee5335d1d7891d8300020000000000000000053b",
+            "0xe2fd25b84aa76486e0cbc2c2ca383c3587abb942000100000000000000000028",
+            "0xe1c86d3908dc524aa3555e56adf973de7d3acdba000100000000000000000267",
+            "0xe222fae87b9a0ba5529880e6a2ab55ba7700555e000100000000000000000450",
+            "0xda42b71701e35814ddc33cc71fe0d0bd36985f73000200000000000000000491",
+            "0xf3f0970bca8ce7e9672d17a301b54d1485d938070000000000000000000000c8",
+            "0xf61cb5126247dbadd1197651152a46f9b32678c40001000000000000000000d7",
+            "0x8fe1a318e67bc203180adf68007613546e8af393000000000000000000000046",
+            "0x232a18645c4e33dd64e6925e03da0f0dd77ad003",
+            "0xc9d5204e7c04a1be300b33e3979479be75132ac5"
+        ]
+    },
+    {
+        "id": "avalanche_rewards",
+        "name": "Avalanche Rewards",
+        "description": "AVAX LSTs receiving extra rewards",
+        "file": "avax_lsts.json",
+        "fileIcon": "avax_lsts.svg",
+        "pools": [
+            [
+                "0xfd2620c9cfcec7d152467633b3b0ca338d3d78cc00000000000000000000001c",
+                "0xc13546b97b9b1b15372368dc06529d7191081f5b00000000000000000000001d"
+            ]
+        ]
+    }
+]
