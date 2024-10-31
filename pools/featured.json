@@ -1,21 +1,21 @@
 [
-  {
-    "id": "0x7967fa58b9501600d96bd843173b9334983ee6e600020000000000000000056e",
-    "imageUrl": "https://v3.balancer.fi/images/chains/ARBITRUM.svg",
-    "chainId": 42161,
-    "primary": true,
-    "description": "Elliptical Concentrated Liquidity"
-  },
-  {
-    "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
-    "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
-    "chainId": 1,
-    "description": "Liquid Restaking Tri Pool"
-  },
-  {
-    "id": "0xb819feef8f0fcdc268afe14162983a69f6bf179e000000000000000000000689",
-    "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
-    "chainId": 1,
-    "description": "Yield Bearing Stable Pool"
-  }
+    {
+        "id": "0x7967fa58b9501600d96bd843173b9334983ee6e600020000000000000000056e",
+        "imageUrl": "https://v3.balancer.fi/images/chains/ARBITRUM.svg",
+        "chainId": 42161,
+        "primary": true,
+        "description": "Elliptical Concentrated Liquidity"
+    },
+    {
+        "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
+        "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
+        "chainId": 1,
+        "description": "Liquid Restaking Tri Pool"
+    },
+    {
+        "id": "0xb819feef8f0fcdc268afe14162983a69f6bf179e000000000000000000000689",
+        "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
+        "chainId": 1,
+        "description": "Yield Bearing Stable Pool"
+    }
 ]

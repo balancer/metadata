@@ -1,0 +1,18 @@
+[
+    {
+        "id": "hooks_exitfee",
+        "name": "Exitfee Hook",
+        "description": "The exit fee hook",
+        "hooks": {
+            "SEPOLIA": ["0x307d96183f133c738af11d1971bf0a5ee15312be"]
+        }
+    },
+    {
+        "id": "hooks_feetaking",
+        "name": "Feetaking Hook",
+        "description": "The fee taking hook",
+        "hooks": {
+            "SEPOLIA": ["0x5c7fb0734d327ecee2ca5cf2f5fe0f5ff32dbf0b"]
+        }
+    }
+]
