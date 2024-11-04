@@ -193,5 +193,21 @@
                 "0xc13546b97b9b1b15372368dc06529d7191081f5b00000000000000000000001d"
             ]
         ]
+    },
+    {
+        "id": "superfest",
+        "name": "Superfest",
+        "description": "This summer the Optimism Collective will allocate 1.5M OP rewards to spur exploration and activity across OP Mainnet, Base, Mode, and Fraxtal.",
+        "url": "https://jumper.exchange/superfest",
+        "file": "superfest.json",
+        "fileIcon": "superfest.svg",
+        "pools": []
+    },
+    {
+        "id": "arbitrum_grants",
+        "name": "Arbitrum Grants",
+        "description": "Pools receiving $ARB",
+        "file": "arbitrum_grants.json",
+        "pools": []
     }
 ]
