@@ -14,7 +14,6 @@
         "name": "Points (Eigenlayer)",
         "description": "Receives Eigenlayer points",
         "url": "https://www.eigenlayer.xyz",
-        "file": "points_eigenlayer.json",
         "fileIcon": "points_eigenlayer.jpg",
         "pools": [
             "0xb61371ab661b1acec81c699854d2f911070c059e000000000000000000000516",
@@ -30,7 +29,6 @@
         "name": "Points (Swell)",
         "description": "Receives Swell points",
         "url": "https://www.swellnetwork.io",
-        "file": "points_swell.json",
         "fileIcon": "points_swell.jpg",
         "pools": [
             "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
@@ -42,7 +40,6 @@
         "name": "Points (Gyro)",
         "description": "LPs earn Gyroscope SPIN on the TVL of the pool.",
         "url": "https://gyro.finance",
-        "file": "points_gyro.json",
         "fileIcon": "points_gyro.png",
         "pools": [
             "0x7272163a931dac5bbe1cb5fefaf959bb65f7346f000200000000000000000549",
@@ -74,7 +71,6 @@
         "description": "LPs in this pool earn 1x points on the amount of ezEth liquidity provided to the pool",
         "value": "1",
         "url": "https://www.app.renzoprotocol.com",
-        "file": "points_renzo.json",
         "fileIcon": "points_renzo.jpg",
         "pools": ["0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a"]
     },
@@ -84,7 +80,6 @@
         "description": "LPs in this pool earn 4x ezPoints on the TVL provided to the pool (wEth + ezEth)",
         "value": "4",
         "url": "https://www.app.renzoprotocol.com",
-        "file": "points_renzo_4x.json",
         "fileIcon": "points_renzo.jpg",
         "pools": [
             "0xb61371ab661b1acec81c699854d2f911070c059e000000000000000000000516",
@@ -96,7 +91,6 @@
         "name": "Points (Kelp)",
         "description": "LPs earn Miles on the TVL of the pool. The Miles boost increases rewards based on the total pool capital, not just rsETH. Your daily Kelp Miles value is calculated by multiplying the effective rsETH balance by 10,000 times the boost value. Your Miles are then distributed based on your share of the liquidity pool.",
         "url": "https://kelpdao.xyz",
-        "file": "points_kelp.json",
         "fileIcon": "points_kelp.jpg",
         "pools": [
             "0x90e6cb5249f5e1572afbf8a96d8a1ca6acffd73900000000000000000000055c",
@@ -109,7 +103,6 @@
         "id": "ve8020",
         "name": "ve8020",
         "description": "Vote Escrow Pool Tokens",
-        "file": "ve8020.json",
         "pools": [
             "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014",
             "0x9232a548dd9e81bac65500b5e0d918f8ba93675c000200000000000000000423",
@@ -124,7 +117,6 @@
         "name": "Mode Points",
         "description": "LPs in this pool earn Mode points on the TVL of the pool (Mode and USDC) and earn a weekly share of $OP when the BPT is staked on the Mode dashboard for an additional point multiplier.",
         "url": "https://app.mode.network/early/",
-        "file": "points_mode.json",
         "fileIcon": "points_mode.svg",
         "pools": ["0xa4781148e4a8a0903d795464e5c206a7f33851ba000200000000000000000008"]
     },
@@ -133,7 +125,6 @@
         "name": "Elixir Potions",
         "description": "LPs earn potions on the TVL of the pool",
         "url": "https://elixir.xyz",
-        "file": "points_elixir.json",
         "fileIcon": "points_elixir.jpeg",
         "pools": ["0x41fdbea2e52790c0a1dc374f07b628741f2e062d0002000000000000000006be"]
     },
@@ -141,7 +132,6 @@
         "id": "blacklisted",
         "name": "Blacklisted",
         "description": "Blacklisted Pools",
-        "file": "blacklisted.json",
         "pools": [
             "0x5470f064a19c65263b3033da3a6124fdf0a9bab80000000000000000000000e6",
             "0x4136e861e0ad0642cb2f16962540a7808bbade53000000000000000000000102",
@@ -185,7 +175,6 @@
         "id": "avalanche_rewards",
         "name": "Avalanche Rewards",
         "description": "AVAX LSTs receiving extra rewards",
-        "file": "avax_lsts.json",
         "fileIcon": "avax_lsts.svg",
         "pools": [
             [
@@ -199,7 +188,6 @@
         "name": "Superfest",
         "description": "This summer the Optimism Collective will allocate 1.5M OP rewards to spur exploration and activity across OP Mainnet, Base, Mode, and Fraxtal.",
         "url": "https://jumper.exchange/superfest",
-        "file": "superfest.json",
         "fileIcon": "superfest.svg",
         "pools": []
     },
@@ -207,7 +195,6 @@
         "id": "arbitrum_grants",
         "name": "Arbitrum Grants",
         "description": "Pools receiving $ARB",
-        "file": "arbitrum_grants.json",
         "pools": []
     }
 ]
