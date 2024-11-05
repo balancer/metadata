@@ -3,6 +3,7 @@
         "id": "boosted_aave",
         "name": "Aave Boosted",
         "description": "Boosted through Aave",
+        "icon": "aave_boosted.svg",
         "addresses": {
             "11155111": [
                 "0x8a88124522dbbf1e56352ba3de1d9f78c143751e",
