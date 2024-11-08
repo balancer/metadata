@@ -196,5 +196,26 @@
         "name": "Arbitrum Grants",
         "description": "Pools receiving $ARB",
         "pools": []
+    },
+    {
+        "id": "points_ethena",
+        "name": "Ethena Points",
+        "value": "30",
+        "description": "Receives Ethena points",
+        "url": "https://ethena.fi",
+        "icon": "ethena.svg",
+        "pools": [
+            "0xa0af0b88796c1aa67e93db89fead2ab7aa3d6747000000000000000000000007",
+            "0x2b783cd37774bb77d387d35683e8388937712f0a00020000000000000000056b",
+            "0x38161e9efb8de52d00a1eb0f773223fd28fdd7c20002000000000000000005a0",
+            "0xdeeaf8b0a8cf26217261b813e085418c7dd8f1ee00020000000000000000058f",
+            "0x59743f1812bb85db83e9e4ee061d124aaa64290000000000000000000000052b",
+            "0x2f0cdf8596be980ef24924ca7bf54e630ca526b2000000000000000000000529",
+            "0xa8210885430aaa333c9f0d66ab5d0c312bed5e43000200000000000000000692",
+            "0x79af734562f741946566d5126bbded4cb699e35500000000000000000000069f",
+            "0xb819feef8f0fcdc268afe14162983a69f6bf179e000000000000000000000689",
+            "0x8d93b853849b9884e2bb413444ec23eb5366ee910002000000000000000006b3",
+            "0x33251abecb0364df98a27a8d5d7b5ccddc774c42000000000000000000000008"
+        ]
     }
 ]
