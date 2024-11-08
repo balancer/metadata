@@ -4,7 +4,7 @@ Public metadata for the Balancer protocol.
 
 ## Tags
 
-Tags are used to tag sets of pools in the [Balancer API](https://github.com/balancer/backend) and [frontend](https://github.com/balancer/frontend-v3).
+Tags are used to tag sets of pools in the [Balancer API](https://github.com/balancer/backend) and [frontend](https://github.com/balancer/frontend-monorepo).
 
 ### Adding new tags
 
