@@ -12,12 +12,12 @@ To add a new tag, update the [tag json](https://github.com/balancer/metadata/blo
 
 ```ts
 type Tag = {
-    id: string; // If it's a points category, prepend id with `points_`, see existing categories for examples.
+    id: string; // If it's a points tag, prepend id with `points_`, see existing tags for examples.
     name: string;
     description: string;
-    value?: string; // Arbitrary value that may be used by the frontend to provide more context, e.g. points multiples for points categories.
+    value?: string; // Arbitrary value that may be used by the frontend to provide more context, e.g. points multiples for points tags.
     url?: string; // A link you want to associate with the tag.
-    icon?: string; // Icon to be used in frontend to represent the category. Should be a relative path, see existing categories for examples.
+    icon?: string; // Icon to be used in frontend to represent the tag. Should be a relative path, see existing tags for examples.
     pools: string[]; // A list of pool IDs that should receive the tag.
 };
 ```
