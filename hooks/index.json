@@ -14,5 +14,13 @@
         "addresses": {
             "11155111": ["0x5c7fb0734d327ecee2ca5cf2f5fe0f5ff32dbf0b"]
         }
+    },
+    {
+        "id": "hooks_stablesurge",
+        "name": "StableSurge Hook",
+        "description": "The StableSurge Hook",
+        "addresses": {
+            "11155111": ["0x1adc55adb4caae71abb4c33f606493f4114d2091"]
+        }
     }
 ]
