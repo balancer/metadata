@@ -217,5 +217,22 @@
             "0x8d93b853849b9884e2bb413444ec23eb5366ee910002000000000000000006b3",
             "0x33251abecb0364df98a27a8d5d7b5ccddc774c42000000000000000000000008"
         ]
-    }
+    },
+    {
+        "id": "points_vnx",
+        "name": "VNX Points Campaign",
+        "description": "The VNX Points Campaign, hosted by the VNX Community Hub, aims to drive the adoption of VNX stablecoins within the DeFi ecosystem",
+        "url": "https://vnx.community/points-campaign",
+        "icon": "vnx.svg",
+        "pools": [
+            "0x721bd1900aeabc29009b08e44be37529f518f2c2000100000000000000000026",
+            "0x0099111ed107bdf0b05162356aee433514aac44000020000000000000000002f",
+            "0x28f3a9e42667519c83cb090b5c4f6bd34e9f5569000200000000000000000031",
+            "0x70ff0078d55ce9c1a0e668f35eb4400a4300122d000000000000000000000beb",
+            "0x6bf004bee6346852a29239b386ab4239ffbd66de000200000000000000000cb5",
+            "0x32cc63ffeccb7c0508d64e4d37145313cc053b27000200000000000000000cb4",
+            "0x1399d2b825c927409ccd77e86447c40e378dc580000100000000000000000cb3",
+            "0x0f50e8598ba3d37150bd4cbc6138a20ac9bb03110001000000000000000005b9"
+        ]
+     }
 ]
