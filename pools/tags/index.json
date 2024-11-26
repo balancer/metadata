@@ -217,5 +217,14 @@
             "0x8d93b853849b9884e2bb413444ec23eb5366ee910002000000000000000006b3",
             "0x33251abecb0364df98a27a8d5d7b5ccddc774c42000000000000000000000008"
         ]
+    },
+    {
+        "id": "points_treehouse",
+        "name": "Points (Treehouse Nuts)",
+        "description": "Treehouse Nuts are additional ecosystem rewards on top of staking and market efficiency yield",
+        "value": "2",
+        "url": "https://www.treehouse.finance",
+        "file": "points_treehouse.json",
+        "fileIcon": "points_treehouse.svg"
     }
 ]
