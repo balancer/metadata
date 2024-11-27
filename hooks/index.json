@@ -4,7 +4,7 @@
         "name": "Exitfee Hook",
         "description": "The exit fee hook",
         "addresses": {
-            "11155111": ["0x307d96183f133c738af11d1971bf0a5ee15312be"]
+            "11155111": ["0x2Aa9D4066DAe16ef001765efF2cA8F41Bde0b019"]
         }
     },
     {
@@ -12,7 +12,7 @@
         "name": "Feetaking Hook",
         "description": "The fee taking hook",
         "addresses": {
-            "11155111": ["0x5c7fb0734d327ecee2ca5cf2f5fe0f5ff32dbf0b"]
+            "11155111": ["0x790ae803b6c0467C6A4cbDc6d6d712DE34CfdB76"]
         }
     },
     {
