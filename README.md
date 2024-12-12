@@ -48,5 +48,5 @@ type PoolMeta = {
     name?: string
     description?: string
     icon?: string
-    ignoreERC4626?: boolean // Tells UI to treat all ERC4626 pool tokens as normal pool tokens rather than a boosted pool tokens.
+    ignoreERC4626?: boolean // Tells UI to treat all ERC4626 pool tokens as normal pool tokens rather than boosted pool tokens.
 }
