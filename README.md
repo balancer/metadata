@@ -34,3 +34,19 @@ Tags are generic pool <> metadata associations that are ingested by the API. We 
 
 1. The `id` should include `points`, preferably as a prepend, e.g. `id: "points_protocol_name"`.
 2. If the points program has a multiple, you can use the `value` attribute to specify that multiple. If the multiple is 5x then `value: "5"`.
+
+## Pools
+
+### Adding pool metadata
+
+To add new pool metadata, update the [pools
+json](https://github.com/balancer/metadata/blob/main/pools/index.json) with a
+object using the following schema:
+
+```ts
+type PoolMeta = {
+    name?: string
+    description?: string
+    icon?: string
+    ignoreERC4626?: boolean
+}
