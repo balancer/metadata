@@ -47,6 +47,6 @@ object using the following schema:
 type PoolMeta = {
     name?: string
     description?: string
-    icon?: string
+    iconUrl?: string
     ignoreERC4626?: boolean // Tells UI to treat all ERC4626 pool tokens as normal pool tokens rather than boosted pool tokens.
 }
