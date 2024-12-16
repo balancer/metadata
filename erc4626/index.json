@@ -14,11 +14,9 @@
             ],
             "100": [
                 "0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644",
-                "0xaf204776c7245bf4147c2612bf6e5972ee483701",
                 "0x57f664882F762FA37903FC864e2B633D384B411A",
                 "0x773cda0cade2a3d86e6d4e30699d40bb95174ff2",
-                "0x51350d88c1bd32cc6a79368c9fb70373fb71f375",
-                "0xaf204776c7245bf4147c2612bf6e5972ee483701"
+                "0x51350d88c1bd32cc6a79368c9fb70373fb71f375"
             ],
             "11155111": [
                 "0xde46e43f46ff74a23a65ebb0580cbe3dfe684a17",
@@ -30,12 +28,13 @@
     {
         "id": "boosted_morpho",
         "name": "Morpho Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Morpho vault tokens.  Morpho Vaults generate a yield from over-collateralized lending. Borrowers deposit collateral and borrow liquidity from the underlying markets, paying interest to the vault.",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Morpho vault tokens. Morpho Vaults generate yield from over-collateralized lending. Borrowers deposit collateral and borrow liquidity from the underlying markets, paying interest to the vault.",
         "icon": "morpho_boosted.svg",
         "addresses": {
             "1": [
                 "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
-                "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1"
+                "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1",
+                "0x2371e134e3455e0593363cbf89d3b6cf53740618"
             ]
         }
     }
