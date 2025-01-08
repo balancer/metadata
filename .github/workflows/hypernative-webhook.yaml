@@ -1,0 +1,42 @@
+name: Hypernative Webhook
+
+on:
+  repository_dispatch:
+    types: [hypernative_webhook]
+
+jobs:
+  process-alert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Ensure tokens directory exists
+        run: mkdir -p tokens
+
+      - name: Update blocklist CSV
+        id: update-csv
+        run: |
+          # Create file with header if it doesn't exist
+          if [ ! -f tokens/blocked.csv ]; then
+            echo "chain_id,token_address" > tokens/blocked.csv
+          fi
+
+          # Add new entry to the file
+          CHAIN="${{ github.event.client_payload.chain_id }}"
+          TOKEN="${{ github.event.client_payload.token_address }}"
+          echo "${CHAIN},${TOKEN,,}" >> tokens/blocked.csv
+          echo "changes_made=true" >> $GITHUB_OUTPUT
+
+      - name: Commit changes
+        if: steps.update-csv.outputs.changes_made == 'true'
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add tokens/blocked.csv
+          git commit -m "Add token to blocklist: ${{ github.event.client_payload.token_address }}"
+          git pull --rebase
+          git push
