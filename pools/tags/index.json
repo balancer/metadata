@@ -253,5 +253,13 @@
             "0x481cbbe28cc0f5226cdf0192fb60d8b28219a95b000100000000000000000039",
             "0x32bac522c4f97f4913d18d81cf3be119c8cce26a000100000000000000000050"
         ]
+    },
+    {
+        "id": "points_coinshift",
+        "name": "SHIFT Rewards",
+        "description": "LPs in this pool earn up to 25% APY in SHIFT rewards.",
+        "url": "https://coinshift.xyz/",
+        "icon": "coinshift.svg",
+        "pools": ["0x10a04efba5b880e169920fd4348527c64fb29d4d"]
     }
 ]

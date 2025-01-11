@@ -1,8 +1,13 @@
 {
-  "1": {
-    "0x5dd88b3aa3143173eb26552923922bdf33f50949": {
-      "name": "Steakhouse/Coinshift Boosted",
-      "description": "This boosted pool's underlying mechanics are powered by wrapped Steakhouse and Coinshift tokens, which generate yield from lending activities on Morpho."
+    "1": {
+        "0x5dd88b3aa3143173eb26552923922bdf33f50949": {
+            "name": "Steakhouse/Coinshift Boosted",
+            "description": "This boosted pool's underlying mechanics are powered by wrapped Steakhouse and Coinshift tokens, which generate yield from lending activities on Morpho."
+        },
+        "0x10a04efba5b880e169920fd4348527c64fb29d4d": {
+            "name": "Coinshift USDC/USDL",
+            "description": "This boosted pool is powered by Coinshift's yield bearing stablecoins, csUSDC and csUSDL, built with Morpho, Paxos and Steakhouse.",
+            "iconUrl": "https://pb-stockpile.live.coinshift.global/images/CSBalancerDark.svg"
+        }
     }
-  }
 }
