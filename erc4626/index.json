@@ -39,5 +39,23 @@
                 "0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1"
             ]
         }
+    },
+    {
+        "id": "boosted_avalon",
+        "name": "Avalon Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Avalon tokens, which generate yield from lending activities on the Avalon protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "avalon_boosted.svg",
+        "addresses": {
+            "146": ["0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a", "0xa28d4dbcc90c849e3249d642f356d85296a12954"]
+        }
+    },
+    {
+        "id": "boosted_silo",
+        "name": "Silo Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo tokens, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "silo_boosted.svg",
+        "addresses": {
+            "146": ["0x9ed5a9c8f09aa245f105b23b1ee27723c4ad8d69", "0x34bb955f10f01e05d2639a12a9fbf770853eac4b"]
+        }
     }
 ]
