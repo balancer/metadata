@@ -45,7 +45,7 @@
         "id": "boosted_avalon",
         "name": "Avalon Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Avalon tokens, which generate yield from lending activities on the Avalon protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "avalon_boosted.svg",
+        "icon": "avalon_boosted.png",
         "addresses": {
             "146": ["0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a", "0xa28d4dbcc90c849e3249d642f356d85296a12954"]
         }
