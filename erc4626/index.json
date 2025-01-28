@@ -65,7 +65,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by Beefy Vaults, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "beefy_boosted.svg",
         "addresses": {
-            "146": ["0x43026d483f42fb35efe03c20b251142d022783f2"]
+            "146": ["0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a"]
         }
     }
 ]
