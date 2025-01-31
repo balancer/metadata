@@ -9,5 +9,12 @@
             "description": "This boosted pool is powered by Coinshift's yield bearing stablecoins, csUSDC and csUSDL, built with Morpho, Paxos and Steakhouse.",
             "iconUrl": "https://pb-stockpile.live.coinshift.global/images/CSBalancerDark.svg"
         }
+    },
+    "8453": {
+        "0x4147D8AeECb75bc9f5c973c3B73D2dfC4DCCe131": {
+            "name": "Seamless USDC/sUSDS",
+            "description": "This boosted pool is powered by 1) the Seamless USDC Vault on Morpho, which earns a base yield plus MORPHO and SEAM emissions and 2) sUSDS (Sky Savings Rate)",
+            "iconUrl": "https://github.com/balancer/tokenlists/blob/dc4e4ef1d8375b95525ce384b92fe2023538c42e/src/assets/images/tokens/Seamless-Logo-_3_.png" 
+        }
     }
 }
