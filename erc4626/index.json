@@ -52,9 +52,7 @@
                 "0x1e6ffa4e9F63d10B8820A3ab52566Af881Dab53c",
                 "0x097FFEDb80d4b2Ca6105a07a4D90eB739C45A666"
             ],
-            "8453": [
-                "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738"
-            ]
+            "8453": ["0x616a4E1db48e22028f6bbf20444Cd3b8e3273738"]
         }
     },
     {
@@ -72,7 +70,11 @@
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo tokens, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "silo_boosted.svg",
         "addresses": {
-            "146": ["0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8", "0x87178fe8698c7eda8aa207083c3d66aea569ab98"]
+            "146": [
+                "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
+                "0x87178fe8698c7eda8aa207083c3d66aea569ab98",
+                "0x016C306e103FbF48EC24810D078C65aD13c5f11B"
+            ]
         }
     },
     {
