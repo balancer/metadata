@@ -12,7 +12,7 @@
     },
     "8453": {
         "0x4147d8aeecb75bc9f5c973c3b73d2dfc4dcce131": {
-            "description": "This boosted pool is powered by 1) the Seamless USDC Vault on Morpho, which earns a base yield plus MORPHO and SEAM emissions and 2) sUSDS (Sky Savings Rate)", 
+            "description": "This boosted pool is powered by 1) the Seamless USDC Vault on Morpho, which earns a base yield plus MORPHO and SEAM emissions and 2) sUSDS (Sky Savings Rate)"
         }
     }
 }
