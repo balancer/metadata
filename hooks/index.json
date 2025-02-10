@@ -1,7 +1,7 @@
 [
     {
         "id": "hooks_exitfee",
-        "name": "Exitfee Hook",
+        "name": "ExitFee",
         "description": "The exit fee hook",
         "addresses": {
             "11155111": ["0x2Aa9D4066DAe16ef001765efF2cA8F41Bde0b019"]
@@ -9,7 +9,7 @@
     },
     {
         "id": "hooks_feetaking",
-        "name": "Feetaking Hook",
+        "name": "FeeTaking",
         "description": "The fee taking hook",
         "addresses": {
             "11155111": ["0x790ae803b6c0467C6A4cbDc6d6d712DE34CfdB76"]
@@ -17,10 +17,11 @@
     },
     {
         "id": "hooks_stablesurge",
-        "name": "StableSurge Hook",
-        "description": "The StableSurge Hook",
+        "name": "StableSurge",
+        "description": "This hook helps defend the peg of new Stablecoin / LRT assets by applying a dynamic surge fee in times of volatility. LPs are rewarded with increased swap fee revenue and MEV protection.",
+        "learnMore": "https://medium.com/balancer-protocol/balancers-stablesurge-hook-09d2eb20f219",
         "addresses": {
-            "11155111": ["0x1adc55adb4caae71abb4c33f606493f4114d2091"]
+            "11155111": ["0x1adc55adb4caae71abb4c33f606493f4114d2091", "0xc0cbcdd6b823a4f22aa6bbdde44c17e754266aef"]
         }
     }
 ]
