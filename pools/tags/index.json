@@ -171,7 +171,7 @@
             "0xc9d5204e7c04a1be300b33e3979479be75132ac5",
             "0x0c5f3b54ca6fae8a1838771a82508d82b6f521fd000200000000000000000003",
             "0x425f2f2b7f2255ee3e676efb504765616ce5c768000200000000000000000004",
-"0xb026199b93060446dd998209749ec05f5d9217f800020000000000000000085d"
+            "0xb026199b93060446dd998209749ec05f5d9217f800020000000000000000085d"
         ]
     },
     {
@@ -243,7 +243,8 @@
         "id": "points_rings",
         "name": "Rings Points Program",
         "description": "Earn Rings points and receive part of their Sonic Gems allocation.",
-        "url": "https://rings.money/",
+        "value": "1.5",
+        "url": "https://app.rings.money/#/points",
         "icon": "rings.svg",
         "pools": [],
         "tokens": {
