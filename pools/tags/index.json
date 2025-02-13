@@ -252,6 +252,100 @@
         }
     },
     {
+        "id": "points_sonic_2x",
+        "name": "Sonic Points Program",
+        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
+        "value": "2",
+        "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
+        "icon": "sonic.svg",
+        "pools": [],
+        "tokens": {
+            "146": [
+                "0x50c42deacd8fc9773493ed674b675be577f2634b",
+                "0xCC0966D8418d412c599A6421b760a847eB169A8c",
+                "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
+                "0xa28d4dbcc90c849e3249d642f356d85296a12954",
+                "0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a",
+                "0x219656f33c58488d09d518badf50aa8cdcaca2aa",
+                "0x6c49b18333a1135e9a376560c07e6d1fd0350eaf",
+                "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
+                "0x87178fe8698c7eda8aa207083c3d66aea569ab98"
+            ]
+        }
+    },
+    {
+        "id": "points_sonic_4x",
+        "name": "Sonic Points Program",
+        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
+        "value": "4",
+        "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
+        "icon": "sonic.svg",
+        "pools": [],
+        "tokens": {
+            "146": [
+                "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+                "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
+                "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+                "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+                "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
+                "0x016c306e103fbf48ec24810d078c65ad13c5f11b",
+                "0x6c49b18333a1135e9a376560c07e6d1fd0350eaf"
+            ]
+        }
+    },
+    {
+        "id": "points_sonic_5x",
+        "name": "Sonic Points Program",
+        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
+        "value": "5",
+        "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
+        "icon": "sonic.svg",
+        "pools": [],
+        "tokens": {
+            "146": [
+                "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+                "0x5954ce6671d97d24b782920ddcdbb4b1e63ab2de",
+                "0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a"
+            ]
+        }
+    },
+    {
+        "id": "points_sonic_6x",
+        "name": "Sonic Points Program",
+        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
+        "value": "6",
+        "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
+        "icon": "sonic.svg",
+        "pools": [],
+        "tokens": {
+            "146": ["0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae"]
+        }
+    },
+    {
+        "id": "points_silo_2x",
+        "name": "Silo Points Program",
+        "description": "Earn Silo points and receive part of their Sonic Gems allocation!",
+        "value": "2",
+        "url": "https://docs.silo.finance/sonic-rewards-program/program-overview/silo-gem-points",
+        "icon": "points_silo.png",
+        "pools": [],
+        "tokens": {
+            "146": ["0x016C306e103FbF48EC24810D078C65aD13c5f11B"]
+        }
+    },
+    {
+        "id": "points_silo_3x",
+        "name": "Silo Points Program",
+        "description": "Earn Silo points and receive part of their Sonic Gems allocation!",
+        "value": "3",
+        "url": "https://docs.silo.finance/sonic-rewards-program/program-overview/silo-gem-points",
+        "icon": "points_silo.png",
+        "pools": [],
+        "tokens": {
+            "146": ["0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa", "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De"]
+        }
+    },
+    {
         "id": "points_coinshift",
         "name": "SHIFT Rewards",
         "description": "LPs in this pool earn up to 25% APY in SHIFT rewards.",
