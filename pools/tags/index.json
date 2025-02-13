@@ -252,10 +252,10 @@
         }
     },
     {
-        "id": "points_sonic_2x",
+        "id": "points_sonic_4x",
         "name": "Sonic Points Program",
-        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
-        "value": "2",
+        "description": "Earn 4x Sonic Activity points for supplying solvBTC or solvBTC.bbn. Receive a share of the 200M S airdrop!",
+        "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [],
@@ -273,10 +273,10 @@
         }
     },
     {
-        "id": "points_sonic_4x",
+        "id": "points_sonic_8x",
         "name": "Sonic Points Program",
-        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
-        "value": "4",
+        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS or scETH. Receive a share of the 200M S airdrop!",
+        "value": "8",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [],
@@ -293,10 +293,10 @@
         }
     },
     {
-        "id": "points_sonic_5x",
+        "id": "points_sonic_10x",
         "name": "Sonic Points Program",
-        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
-        "value": "5",
+        "description": "Earn 10x Sonic Activity points for supplying USDC.e. Receive a share of the 200M S airdrop!",
+        "value": "10",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [],
@@ -309,9 +309,9 @@
         }
     },
     {
-        "id": "points_sonic_6x",
+        "id": "points_sonic_12x",
         "name": "Sonic Points Program",
-        "description": "Earn Sonic Activity points. Receive a share 200M S airdrop!",
+        "description": "Earn 12x Sonic Activity points for supplying scUSD. Receive a share 200M S airdrop!",
         "value": "6",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
