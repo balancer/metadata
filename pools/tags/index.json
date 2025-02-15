@@ -10,6 +10,15 @@
         "description": "Receives 3rd party points"
     },
     {
+        "id": "points_yieldfi",
+        "name": "Points (YieldFi)",
+        "description": "LPs in this pool earn 2x YieldCrumbs on the TVL provided to the pool (yUSD + aUSDC)",
+        "value": "2x",
+        "url": "https://yield.fi",
+        "icon": "points_yieldfi.jpg",
+        "pools": ["0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652"]
+    },
+    {
         "id": "points_eigenlayer",
         "name": "Points (Eigenlayer)",
         "description": "Receives Eigenlayer points",
