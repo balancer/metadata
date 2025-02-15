@@ -122,6 +122,17 @@
         ]
     },
     {
+        "id": "rwa",
+        "name": "RWA",
+        "description": "Real World Assets",
+        "pools": [
+            "0xae2a38545167be5a2eba9b931b28de5a7d95315e0002000000000000000000cc",
+            "0x31a43002e60d4b66084f4cc4e68585358c362b440002000000000000000000ce",
+            "0xadf65e3da99f7d1efe7c5dea899abec9720139d00002000000000000000000cd",
+            "0xcb3adcf147da57c4e129c5bd34ab0429501454e50002000000000000000000cf"
+        ]
+    },
+    {
         "id": "points_mode",
         "name": "Mode Points",
         "description": "LPs in this pool earn Mode points on the TVL of the pool (Mode and USDC) and earn a weekly share of $OP when the BPT is staked on the Mode dashboard for an additional point multiplier.",
