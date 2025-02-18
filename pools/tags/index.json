@@ -79,7 +79,7 @@
         "name": "Points (Renzo)",
         "description": "LPs in this pool earn 1x points on the amount of ezEth liquidity provided to the pool",
         "value": "1",
-        "url": "https://www.app.renzoprotocol.com",
+        "url": "https://app.renzoprotocol.com",
         "icon": "points_renzo.jpg",
         "pools": ["0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a"]
     },
@@ -88,7 +88,7 @@
         "name": "Points (Renzo)",
         "description": "LPs in this pool earn 4x ezPoints on the TVL provided to the pool (wEth + ezEth)",
         "value": "4",
-        "url": "https://www.app.renzoprotocol.com",
+        "url": "https://app.renzoprotocol.com",
         "icon": "points_renzo.jpg",
         "pools": [
             "0xb61371ab661b1acec81c699854d2f911070c059e000000000000000000000516",
