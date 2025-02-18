@@ -34,7 +34,7 @@
         "description": "This hook captures MEV and shares it proportionally with all LPs in this pool. It is achieved through a novel mechanism for MEV internalization called, ‘Priority Fee Auctions’.",
         "learnMore": "https://medium.com/balancer-protocol/mev-internalization-through-priority-fee-taxes-coming-to-balancer-v3-on-base-q1-2025-f20b3e1b7295",
         "addresses": {
-            "11155111": []
+            "11155111": ["0x18b10fe9ec4815c31c4ab04fa6f91dce0695132f"]
         }
     }
 ]
