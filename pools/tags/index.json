@@ -296,7 +296,7 @@
     {
         "id": "points_sonic_8x",
         "name": "Sonic Points Program",
-        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS or scETH. Receive a share of the 200M S airdrop!",
+        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS, scETH, LBTC or scBTC. Receive a share of the 200M S airdrop!",
         "value": "8",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
@@ -309,7 +309,9 @@
                 "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
                 "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
                 "0x016c306e103fbf48ec24810d078c65ad13c5f11b",
-                "0x6c49b18333a1135e9a376560c07e6d1fd0350eaf"
+                "0x6c49b18333a1135e9a376560c07e6d1fd0350eaf",
+                "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
+                "0xecac9c5f704e954931349da37f60e39f515c11c1"
             ]
         }
     },
@@ -332,7 +334,7 @@
     {
         "id": "points_sonic_12x",
         "name": "Sonic Points Program",
-        "description": "Earn 12x Sonic Activity points for supplying scUSD. Receive a share 200M S airdrop!",
+        "description": "Earn 12x Sonic Activity points for supplying scUSD. Receive a share of the 200M S airdrop!",
         "value": "12",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
@@ -364,6 +366,15 @@
         "tokens": {
             "146": ["0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa", "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De"]
         }
+    },
+    {
+        "id": "points_lombard__lux_3x",
+        "name": "Lombard Lux",
+        "description": "Earn 3x Lombard Lux for supplying scBTC & LBTC",
+        "value": "3",
+        "url": "https://docs.lombard.finance/lbtc-liquid-bitcoin/lux-and-luminary-program",
+        "icon": "points_lombard.svg",
+        "pools": ["0x83952912178aa33c3853ee5d942c96254b235dcc0002000000000000000000ab"]
     },
     {
         "id": "points_coinshift",
