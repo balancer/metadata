@@ -93,5 +93,14 @@
         "addresses": {
             "146": ["0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a"]
         }
+    },
+    {
+        "id": "boosted_superform",
+        "name": "Superform Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by Superform Vaults, which generate yield from lending activities on the Superform protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "superform_boosted.png",
+        "addresses": {
+            "8453": ["0xe9f2a5f9f3c846f29066d7fb3564f8e6b6b2d65b"]
+        }
     }
 ]
