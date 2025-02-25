@@ -278,7 +278,7 @@
     {
         "id": "points_sonic_4x",
         "name": "Sonic Points Program",
-        "description": "Earn 4x Sonic Activity points for supplying solvBTC or solvBTC.bbn. Receive a share of the 200M S airdrop!",
+        "description": "Earn 4x Sonic Activity points for supplying solvBTC, solvBTC.bbn or wETH. Receive a share of the 200M S airdrop!",
         "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
