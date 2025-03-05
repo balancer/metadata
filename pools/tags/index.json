@@ -299,7 +299,7 @@
     {
         "id": "points_sonic_8x",
         "name": "Sonic Points Program",
-        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS, scETH, LBTC or scBTC. Receive a share of the 200M S airdrop!",
+        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS, anS, wanS, scETH, LBTC or scBTC. Receive a share of the 200M S airdrop!",
         "value": "8",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
@@ -314,7 +314,8 @@
                 "0x016c306e103fbf48ec24810d078c65ad13c5f11b",
                 "0x6c49b18333a1135e9a376560c07e6d1fd0350eaf",
                 "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
-                "0xecac9c5f704e954931349da37f60e39f515c11c1"
+                "0xecac9c5f704e954931349da37f60e39f515c11c1",
+                "0x0c4e186eae8acaa7f7de1315d5ad174be39ec987"
             ]
         }
     },
