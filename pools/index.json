@@ -22,7 +22,8 @@
             "addLiquidityWarning": {
                 "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk.",
                 "type": "error"
-            }
+            },
+            "enableAddLiquidity": true
         }
     }
 }
