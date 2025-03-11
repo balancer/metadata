@@ -24,5 +24,17 @@
                 "type": "error"
             }
         }
+    },
+    "42161": {
+        "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec": {
+            "warning": {
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. Please read through the \"Pool risks\" before adding liquidity to this pool.",
+                "type": "error"
+            },
+            "addLiquidityWarning": {
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk.",
+                "type": "error"
+            }
+        }
     }
 }
