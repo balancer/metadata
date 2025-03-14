@@ -1,0 +1,52 @@
+name: Check JSON Schemas
+on: [push]
+
+jobs:
+  Check-JSON-Schemas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate boosted pools
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/boosted-pools.json
+          file: ./erc4626/index.json
+
+      - name: Validate buffer block list
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/buffer-block-list.json
+          file: ./erc4626/bufferblocklist.json
+
+      - name: Validate pools
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/pools.json
+          file: ./pools/index.json
+
+      - uses: actions/checkout@v4
+      - name: Validate featured pools
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/featured-pools.json
+          file: ./pools/featured.json
+
+      - uses: actions/checkout@v4
+      - name: Validate pool tags
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/pool-tags.json
+          file: ./pools/tags/index.json
+
+      - name: Validate hooks
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/hooks.json
+          file: ./hooks/index.json
+
+      - name: Validate tokens
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/tokens.json
+          file: ./tokens/overwrite.json

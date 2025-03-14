@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://balancer.fi/featured-pools.json",
+  "title": "Featured pools",
+  "description": "Featured pools",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "chainId": {
+        "type": "number"
+      },
+      "imageUrl": {
+        "type": "string"
+      },
+      "primary": {
+        "type": "boolean"
+      }
+    },
+    "required": ["id", "description", "chainId", "imageUrl"]
+  }
+}
