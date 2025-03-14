@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://balancer.fi/pool-tags.json",
+  "title": "Pool tags",
+  "description": "Pool tags",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "value": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string"
+      },
+      "icon": {
+        "type": "string"
+      },
+      "pools": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "tokens": {
+        "type": "object",
+        "patternProperties": {
+          "^[0-9]+$": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "required": ["id", "name", "description"]
+  }
+}
