@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://balancer.fi/hooks.json",
+  "title": "Hook",
+  "description": "A hook that can be added to a pool",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "learnMore": {
+        "type": "string"
+      },
+      "addresses": {
+        "type": "object",
+        "patternProperties": {
+          "^[0-9]+$": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "required": ["id", "name", "description", "addresses"]
+  }
+}
