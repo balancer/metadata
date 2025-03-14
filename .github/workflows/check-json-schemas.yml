@@ -44,3 +44,9 @@ jobs:
         with:
           schema: ./schemas/hooks.json
           file: ./hooks/index.json
+
+      - name: Validate tokens
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/tokens.json
+          file: ./tokens/overwrite.json
