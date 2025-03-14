@@ -204,8 +204,8 @@
         "description": "AVAX LSTs receiving extra rewards",
         "icon": "avax_lsts.svg",
         "pools": [
-          "0xfd2620c9cfcec7d152467633b3b0ca338d3d78cc00000000000000000000001c",
-          "0xc13546b97b9b1b15372368dc06529d7191081f5b00000000000000000000001d"
+            "0xfd2620c9cfcec7d152467633b3b0ca338d3d78cc00000000000000000000001c",
+            "0xc13546b97b9b1b15372368dc06529d7191081f5b00000000000000000000001d"
         ]
     },
     {
@@ -270,7 +270,11 @@
         "icon": "rings.svg",
         "pools": [],
         "tokens": {
-            "146": ["0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae", "0x3bce5cb273f0f148010bbea2470e7b5df84c7812"]
+            "146": [
+                "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
+                "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+                "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd"
+            ]
         }
     },
     {
