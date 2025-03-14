@@ -7,6 +7,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Validate boosted pools
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/boosted-pools.json
+          file: ./erc4626/index.json
+
+      - name: Validate buffer block list
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/buffer-block-list.json
+          file: ./erc4626/bufferblocklist.json
+
       - name: Validate pools
         uses: cardinalby/schema-validator-action@v3
         with:

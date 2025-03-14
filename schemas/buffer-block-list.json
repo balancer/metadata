@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://balancer.fi/buffer-block-list.json",
+  "title": "Buffer block list",
+  "description": "Buffer block list",
+  "type": "object",
+  "patternProperties": {
+    "^[0-9]+$": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
