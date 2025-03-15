@@ -13,7 +13,7 @@
         "id": "points_yieldfi",
         "name": "Points (YieldFi)",
         "description": "LPs in this pool earn 2x YieldCrumbs on the TVL provided to the pool (yUSD + aUSDC)",
-        "value": "2x",
+        "value": 2,
         "url": "https://yield.fi",
         "icon": "points_yieldfi.jpg",
         "pools": ["0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652"]
