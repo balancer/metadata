@@ -403,5 +403,30 @@
             "0x66bda1a7110f6036183225af0713fd449cbf3214",
             "0xc2b0d1a1b4cdda10185859b5a5c543024c2df869"
         ]
+    },
+    {
+        "id": "points_inception_3x",
+        "name": "InceptionLRT Totems",
+        "description": "LPs in this pool earn 3x totems",
+        "value": "3",
+        "url": "https://www.inceptionlrt.com/app/restaking/",
+        "icon": "points_inception.svg",
+        "pools": ["0x2Bd57acd9f52A8d323a088a072A805108BF015A2"]
+    },
+    {
+        "id": "points_mellow",
+        "name": "Points (Mellow)",
+        "description": "Receives Mellow points",
+        "url": "https://mellow.finance/",
+        "icon": "points_mellow.svg",
+        "pools": ["0x2Bd57acd9f52A8d323a088a072A805108BF015A2"]
+    },
+    {
+        "id": "points_symbiotic",
+        "name": "Points (Symbiotic)",
+        "description": "Receives Symbiotic points",
+        "url": "https://symbiotic.fi/",
+        "icon": "points_symbiotic.png",
+        "pools": ["0x2Bd57acd9f52A8d323a088a072A805108BF015A2"]
     }
 ]
