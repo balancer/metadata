@@ -110,13 +110,14 @@
         "id": "boosted_fluid",
         "name": "Fluid Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by Fluid Vaults, which generate yield from lending activities on the Fluid protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "fluid_boosted.png",
         "addresses": {
             "1": [
                 "0x2411802d8bea09be0af8fd8d08314a63e706b29c",
                 "0x90551c1795392094fe6d29b758eccd233cfaa260"
             ],
             "8453": ["0x9272d6153133175175bc276512b2336be3931ce9"],
-            "42161": ["0x45df0656f8adf017590009d2f1898eeca4f0a205"],
+            "42161": ["0x45df0656f8adf017590009d2f1898eeca4f0a205"]
         }
     }
 ]
