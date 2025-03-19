@@ -411,7 +411,7 @@
         "value": "3",
         "url": "https://www.inceptionlrt.com/app/restaking/",
         "icon": "points_inception.svg",
-        "pools": ["0x2Bd57acd9f52A8d323a088a072A805108BF015A2"]
+        "pools": ["0x2bd57acd9f52a8d323a088a072a805108bf015a2"]
     },
     {
         "id": "points_mellow",
@@ -419,7 +419,7 @@
         "description": "Receives Mellow points",
         "url": "https://mellow.finance/",
         "icon": "points_mellow.svg",
-        "pools": ["0x2Bd57acd9f52A8d323a088a072A805108BF015A2"]
+        "pools": ["0x2bd57acd9f52a8d323a088a072a805108bf015a2"]
     },
     {
         "id": "points_symbiotic",
@@ -427,6 +427,6 @@
         "description": "Receives Symbiotic points",
         "url": "https://symbiotic.fi/",
         "icon": "points_symbiotic.png",
-        "pools": ["0x2Bd57acd9f52A8d323a088a072A805108BF015A2"]
+        "pools": ["0x2bd57acd9f52a8d323a088a072a805108bf015a2"]
     }
 ]
