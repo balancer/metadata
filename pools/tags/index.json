@@ -16,7 +16,10 @@
         "value": "2x",
         "url": "https://yield.fi",
         "icon": "points_yieldfi.jpg",
-        "pools": ["0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652"]
+        "pools": [
+            "0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652",
+            "0xb022debeab744867e5d54d8d9ab78bfece39df83"
+        ]
     },
     {
         "id": "points_eigenlayer",
