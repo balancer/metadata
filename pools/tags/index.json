@@ -270,11 +270,7 @@
         "icon": "rings.svg",
         "pools": [],
         "tokens": {
-            "146": [
-                "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
-                "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
-                "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd"
-            ]
+            "146": ["0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae", "0x3bce5cb273f0f148010bbea2470e7b5df84c7812"]
         }
     },
     {
@@ -284,19 +280,13 @@
         "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
-        "pools": [],
-        "tokens": {
-            "146": [
-                "0x50c42deacd8fc9773493ed674b675be577f2634b",
-                "0xCC0966D8418d412c599A6421b760a847eB169A8c",
-                "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
-                "0xa28d4dbcc90c849e3249d642f356d85296a12954",
-                "0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a",
-                "0x219656f33c58488d09d518badf50aa8cdcaca2aa",
-                "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
-                "0x87178fe8698c7eda8aa207083c3d66aea569ab98"
-            ]
-        }
+        "pools": [
+            "0xd5ab187442998f1a62ea58133a03050691a0c280",
+            "0xe54dd58a6d4e04687f2034dd4ddab49da55f8aff00000000000000000000007c",
+            "0x5485c26921e28830fbd7469442c0edad0e27e01c0002000000000000000000c7",
+            "0xf48c8841d697587570b6b1f872ea82fceb1e6e66",
+            "0x308ebea1dc4ead75f0aebd1569e39354e26ae9e600020000000000000000009c"
+        ]
     },
     {
         "id": "points_sonic_8x",
@@ -305,21 +295,24 @@
         "value": "8",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
-        "pools": [],
-        "tokens": {
-            "146": [
-                "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
-                "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
-                "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-                "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
-                "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
-                "0x016c306e103fbf48ec24810d078c65ad13c5f11b",
-                "0x6c49b18333a1135e9a376560c07e6d1fd0350eaf",
-                "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
-                "0xecac9c5f704e954931349da37f60e39f515c11c1",
-                "0x0c4e186eae8acaa7f7de1315d5ad174be39ec987"
-            ]
-        }
+        "pools": [
+            "0x944d4ae892de4bfd38742cc8295d6d5164c5593c",
+            "0x83952912178aa33c3853ee5d942c96254b235dcc0002000000000000000000ab",
+            "0x374641076b68371e69d03c417dac3e5f236c32fa000000000000000000000006",
+            "0xe54dd58a6d4e04687f2034dd4ddab49da55f8aff00000000000000000000007c",
+            "0x25ca5451cd5a50ab1d324b5e64f32c0799661891000200000000000000000018",
+            "0xbd4a2ecdcd7acb0d2b20744ac4cc1368dd8fdc410001000000000000000000a8",
+            "0xe7734b495a552ab6f4c78406e672cca7175181e10002000000000000000000c5",
+            "0xcf5d1864ab01b50c6e94adde80d5ec264c93f4910002000000000000000000bb",
+            "0x713fb5036dc70012588d77a5b066f1dd05c712d7000200000000000000000041",
+            "0xfc127dfc32b7739a7cfff7ed19e4c4ab3221953a0002000000000000000000a4",
+            "0x5485c26921e28830fbd7469442c0edad0e27e01c0002000000000000000000c7",
+            "0xd2efc016650695c56b514d6a2133ad85afb86d8a00000000000000000000009e",
+            "0x9c9afa14267e1866677336487ef1eade072c8b50",
+            "0xf48c8841d697587570b6b1f872ea82fceb1e6e66",
+            "0xd3a8f1f47869ec55f2e0c9c27bd35f81ce0cde860002000000000000000000b4",
+            "0x442df4bdcfc5afb11571dad8885ff51a9d15e753000200000000000000000036"
+        ]
     },
     {
         "id": "points_sonic_10x",
@@ -328,14 +321,15 @@
         "value": "10",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
-        "pools": [],
-        "tokens": {
-            "146": [
-                "0x29219dd400f2bf60e5a23d13be72b486d4038894",
-                "0x5954ce6671d97d24b782920ddcdbb4b1e63ab2de",
-                "0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a"
-            ]
-        }
+        "pools": [
+            "0x43026d483f42fb35efe03c20b251142d022783f2",
+            "0xcd4d2b142235d5650ffa6a38787ed0b7d7a51c0c000000000000000000000037",
+            "0x713fb5036dc70012588d77a5b066f1dd05c712d7000200000000000000000041",
+            "0xfc127dfc32b7739a7cfff7ed19e4c4ab3221953a0002000000000000000000a4",
+            "0x9c9afa14267e1866677336487ef1eade072c8b50",
+            "0x308ebea1dc4ead75f0aebd1569e39354e26ae9e600020000000000000000009c",
+            "0x442df4bdcfc5afb11571dad8885ff51a9d15e753000200000000000000000036"
+        ]
     },
     {
         "id": "points_sonic_12x",
@@ -344,10 +338,14 @@
         "value": "12",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
-        "pools": [],
-        "tokens": {
-            "146": ["0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae"]
-        }
+        "pools": [
+            "0x43026d483f42fb35efe03c20b251142d022783f2",
+            "0xcd4d2b142235d5650ffa6a38787ed0b7d7a51c0c000000000000000000000037",
+            "0x25ca5451cd5a50ab1d324b5e64f32c0799661891000200000000000000000018",
+            "0xbd4a2ecdcd7acb0d2b20744ac4cc1368dd8fdc410001000000000000000000a8",
+            "0xe7734b495a552ab6f4c78406e672cca7175181e10002000000000000000000c5",
+            "0xcf5d1864ab01b50c6e94adde80d5ec264c93f4910002000000000000000000bb"
+        ]
     },
     {
         "id": "points_silo_2x",
