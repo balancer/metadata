@@ -577,6 +577,11 @@
         },
         "0x99aC4484e8a1dbd6A185380B3A811913Ac884D87": {
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x83f20f44975d03b1b09e64809b757c47f942beea.png"
+        },
+        "0xF6BD14Bc7D980122aa2E70dFe2d7CF926709A0F4": {
+            "extensions": {
+                "coingeckoId": "parifi"
+            }
         }
     },
     "250": {
