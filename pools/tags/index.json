@@ -433,7 +433,7 @@
         "description": "LPs earn 5x bills points on the TVL provided to this pool",
         "value": "5",
         "url": "https://portal.openeden.com/bills-campaign",
-        "icon": "bills-points-icon.svg",
+        "icon": "bills-points-icon.png",
         "pools": ["0x046dccb728c39f8aa69e47dac0ebdad8d2cddfe9"]
     }
 ]
