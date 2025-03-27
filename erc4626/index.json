@@ -90,6 +90,21 @@
         }
     },
     {
+        "id": "boosted_vicuna",
+        "name": "Vicuna Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Vicuna tokens, which generate yield from lending activities on the Vicuna protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "vicuna_boosted.png",
+        "addresses": {
+            "146": [
+                "0xdB1E39faC2EeeEdB49198735B12a8e598a84510c",
+                "0x6C2dadFfAB1714485aD87d1926f4c26E29a957b6",
+                "0x711a93a8bD6803aF0a6122F2dE18c1a6AB7CB29C",
+                "0xd7c9f62622dB85545731F0E4e5D4556aC8a19832",
+                "0xef23FdCbd9b36Ed99A6C51CaA83Af549c36601CF"
+            ]
+        }
+    },
+    {
         "id": "boosted_beefy",
         "name": "Beefy Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by Beefy Vaults, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
