@@ -280,28 +280,26 @@
     {
         "id": "points_sonic_4x",
         "name": "Sonic Points Program",
-        "description": "Earn 4x Sonic Activity points for supplying solvBTC, solvBTC.bbn or wETH. Receive a share of the 200M S airdrop!",
+        "description": "Earn 4x Sonic Activity points for supplying LBTC or wETH. Receive a share of the 200M S airdrop!",
         "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [
-            "0xd5ab187442998f1a62ea58133a03050691a0c280",
             "0xe54dd58a6d4e04687f2034dd4ddab49da55f8aff00000000000000000000007c",
             "0x5485c26921e28830fbd7469442c0edad0e27e01c0002000000000000000000c7",
-            "0xf48c8841d697587570b6b1f872ea82fceb1e6e66",
-            "0x308ebea1dc4ead75f0aebd1569e39354e26ae9e600020000000000000000009c"
+            "0x308ebea1dc4ead75f0aebd1569e39354e26ae9e600020000000000000000009c",
+            "0x83952912178aa33c3853ee5d942c96254b235dcc0002000000000000000000ab"
         ]
     },
     {
         "id": "points_sonic_8x",
         "name": "Sonic Points Program",
-        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS, anS, wanS, scETH, LBTC or scBTC. Receive a share of the 200M S airdrop!",
+        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS, anS, wanS, scETH or scBTC. Receive a share of the 200M S airdrop!",
         "value": "8",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [
             "0x944d4ae892de4bfd38742cc8295d6d5164c5593c",
-            "0x83952912178aa33c3853ee5d942c96254b235dcc0002000000000000000000ab",
             "0x374641076b68371e69d03c417dac3e5f236c32fa000000000000000000000006",
             "0xe54dd58a6d4e04687f2034dd4ddab49da55f8aff00000000000000000000007c",
             "0x25ca5451cd5a50ab1d324b5e64f32c0799661891000200000000000000000018",
@@ -310,35 +308,16 @@
             "0xcf5d1864ab01b50c6e94adde80d5ec264c93f4910002000000000000000000bb",
             "0x713fb5036dc70012588d77a5b066f1dd05c712d7000200000000000000000041",
             "0xfc127dfc32b7739a7cfff7ed19e4c4ab3221953a0002000000000000000000a4",
-            "0x5485c26921e28830fbd7469442c0edad0e27e01c0002000000000000000000c7",
             "0xd2efc016650695c56b514d6a2133ad85afb86d8a00000000000000000000009e",
             "0x9c9afa14267e1866677336487ef1eade072c8b50",
-            "0xf48c8841d697587570b6b1f872ea82fceb1e6e66",
             "0xd3a8f1f47869ec55f2e0c9c27bd35f81ce0cde860002000000000000000000b4",
-            "0x442df4bdcfc5afb11571dad8885ff51a9d15e753000200000000000000000036"
-        ]
-    },
-    {
-        "id": "points_sonic_10x",
-        "name": "Sonic Points Program",
-        "description": "Earn 10x Sonic Activity points for supplying USDC.e. Receive a share of the 200M S airdrop!",
-        "value": "10",
-        "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
-        "icon": "sonic.svg",
-        "pools": [
-            "0x43026d483f42fb35efe03c20b251142d022783f2",
-            "0xcd4d2b142235d5650ffa6a38787ed0b7d7a51c0c000000000000000000000037",
-            "0x713fb5036dc70012588d77a5b066f1dd05c712d7000200000000000000000041",
-            "0xfc127dfc32b7739a7cfff7ed19e4c4ab3221953a0002000000000000000000a4",
-            "0x9c9afa14267e1866677336487ef1eade072c8b50",
-            "0x308ebea1dc4ead75f0aebd1569e39354e26ae9e600020000000000000000009c",
             "0x442df4bdcfc5afb11571dad8885ff51a9d15e753000200000000000000000036"
         ]
     },
     {
         "id": "points_sonic_12x",
         "name": "Sonic Points Program",
-        "description": "Earn 12x Sonic Activity points for supplying scUSD. Receive a share of the 200M S airdrop!",
+        "description": "Earn 12x Sonic Activity points for supplying scUSD, USDC.e. Receive a share of the 200M S airdrop!",
         "value": "12",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
@@ -348,7 +327,13 @@
             "0x25ca5451cd5a50ab1d324b5e64f32c0799661891000200000000000000000018",
             "0xbd4a2ecdcd7acb0d2b20744ac4cc1368dd8fdc410001000000000000000000a8",
             "0xe7734b495a552ab6f4c78406e672cca7175181e10002000000000000000000c5",
-            "0xcf5d1864ab01b50c6e94adde80d5ec264c93f4910002000000000000000000bb"
+            "0xcf5d1864ab01b50c6e94adde80d5ec264c93f4910002000000000000000000bb",
+            "0x713fb5036dc70012588d77a5b066f1dd05c712d7000200000000000000000041",
+            "0xfc127dfc32b7739a7cfff7ed19e4c4ab3221953a0002000000000000000000a4",
+            "0x9c9afa14267e1866677336487ef1eade072c8b50",
+            "0x308ebea1dc4ead75f0aebd1569e39354e26ae9e600020000000000000000009c",
+            "0x5485c26921e28830fbd7469442c0edad0e27e01c0002000000000000000000c7",
+            "0x442df4bdcfc5afb11571dad8885ff51a9d15e753000200000000000000000036"
         ]
     },
     {
