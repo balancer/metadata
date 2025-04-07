@@ -37,6 +37,7 @@
                 "0xa6D12574eFB239FC1D2099732bd8b5dC6306897F",
                 "0x52dc1feefa4f9a99221f93d79da46ae89b8c0967"
             ],
+            "146": ["0x6646248971427B80ce531bdD793e2Eb859347E55"],
             "11155111": [
                 "0xde46e43f46ff74a23a65ebb0580cbe3dfe684a17",
                 "0x8a88124522dbbf1e56352ba3de1d9f78c143751e",
@@ -85,7 +86,24 @@
                 "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De",
                 "0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF",
                 "0xda14a41dbda731f03a94cb722191639dd22b35b2",
-                "0x0A94e18bdbCcD048198806d7FF28A1B1D2590724"
+                "0x0A94e18bdbCcD048198806d7FF28A1B1D2590724",
+                "0xe6605932e4a686534D19005BB9dB0FBA1F101272",
+                "0x24c74B30d1a4261608E84Bf5a618693032681DAc",
+                "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
+                "0x42CE2234fd5a26bF161477a996961c4d01F466a3"
+            ]
+        }
+    },
+    {
+        "id": "boosted_euler",
+        "name": "Euler Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by Euler tokens, which generate yield from lending activities on the Euler protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "euler_boosted.svg",
+        "addresses": {
+            "146": [
+                "0x0806af1762Bdd85B167825ab1a64E31CF9497038",
+                "0xa5cd24d9792F4F131f5976Af935A505D19c8Db2b",
+                "0x9144C0F0614dD0acE859C61CC37e5386d2Ada43A"
             ]
         }
     },
