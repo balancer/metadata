@@ -16,10 +16,7 @@
         "value": "2x",
         "url": "https://yield.fi",
         "icon": "points_yieldfi.jpg",
-        "pools": [
-            "0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652",
-            "0xb022debeab744867e5d54d8d9ab78bfece39df83"
-        ]
+        "pools": ["0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652", "0xb022debeab744867e5d54d8d9ab78bfece39df83"]
     },
     {
         "id": "points_eigenlayer",
@@ -274,7 +271,12 @@
         "icon": "rings.svg",
         "pools": [],
         "tokens": {
-            "146": ["0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae", "0x3bce5cb273f0f148010bbea2470e7b5df84c7812"]
+            "146": [
+                "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
+                "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+                "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+                "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47"
+            ]
         }
     },
     {
@@ -323,7 +325,6 @@
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [
-            "0x43026d483f42fb35efe03c20b251142d022783f2",
             "0xcd4d2b142235d5650ffa6a38787ed0b7d7a51c0c000000000000000000000037",
             "0x25ca5451cd5a50ab1d324b5e64f32c0799661891000200000000000000000018",
             "0xbd4a2ecdcd7acb0d2b20744ac4cc1368dd8fdc410001000000000000000000a8",
@@ -336,6 +337,15 @@
             "0x5485c26921e28830fbd7469442c0edad0e27e01c0002000000000000000000c7",
             "0x442df4bdcfc5afb11571dad8885ff51a9d15e753000200000000000000000036"
         ]
+    },
+    {
+        "id": "points_sonic_24x",
+        "name": "Sonic Points Program",
+        "description": "Earn 24x Sonic Activity points for supplying aUSDC or bUSDC-20. Receive a share of the 200M S airdrop!",
+        "value": "24",
+        "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
+        "icon": "sonic.svg",
+        "pools": ["0x54Ca9aad90324C022bBeD0A94b7380c03aA5884A", "0x43026d483f42fb35efe03c20b251142d022783f2"]
     },
     {
         "id": "points_silo_2x",
