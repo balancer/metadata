@@ -441,5 +441,14 @@
         "url": "https://portal.openeden.com/bills-campaign",
         "icon": "bills-points-icon.png",
         "pools": ["0x046dccb728c39f8aa69e47dac0ebdad8d2cddfe9"]
-    }
+    },
+    {
+        "id": "points_resolv",
+        "name": "Resolv",
+        "description": "LPs earn Resolv Points on the TVL in the pool. The points boost increases rewards based on the total pool capital, not just USR. Your daily Resolv points value is calculated and distributed based upon your share of the liquidity pool",
+        "value": "30x",
+        "url": "https://resolv.xyz/",
+        "icon": "resolv.svg",
+        "pools": ["0x5b14ce8de84448e9a6f6af652af318472aa4fcaf"]
+      }
 ]
