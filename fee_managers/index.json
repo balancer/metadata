@@ -1,0 +1,10 @@
+[
+    {
+        "id": "fee_manager_ezkl",
+        "name": "EZKL",
+        "description": "The EZKL fee manager",
+        "addresses": {
+            "8453": ["0x9CFf5B653DF0429933763Bb92345D074Aa9b0622"]
+        }
+    }
+]
