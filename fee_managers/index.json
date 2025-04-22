@@ -5,7 +5,7 @@
         "description": "The EZKL fee manager",
         "addresses": {
             "8453": ["0x9CFf5B653DF0429933763Bb92345D074Aa9b0622"],
-            "146": ["0x1813F1bD7a883A9bEe5313A04b5954Dca5E2C990"]
+            "146": ["0xa6041402af3103112f9F5f33816f77fbea18bCbb"]
         }
     }
 ]
