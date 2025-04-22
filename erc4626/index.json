@@ -113,7 +113,14 @@
         "description": "This Boosted pool's underlying mechanics are powered by Euler tokens, which generate yield from lending activities on the Euler protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "euler_boosted.svg",
         "addresses": {
-            "146": ["0x90a804D316A06E00755444D56b9eF52e5C4F4D73"]
+            "146": ["0x90a804D316A06E00755444D56b9eF52e5C4F4D73"],
+            "43114": [
+                "0x5030183b3dd0105d69d7d45595c120fc4b542ec3",
+                "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
+                "0x2137568666f12fc5a026f5430ae7194f1c1362ab",
+                "0x39de0f00189306062d79edec6dca5bb6bfd108f9",
+                "0x72f92a966f1874f74e1b601bee7cf57031b53a03",
+            ]
         }
     },
     {
