@@ -19,21 +19,6 @@
         "pools": ["0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652", "0x424d19d482a891b2c5cb881d651fbc32b349cb3c"]
     },
     {
-        "id": "points_eigenlayer",
-        "name": "Points (Eigenlayer)",
-        "description": "Receives Eigenlayer points",
-        "url": "https://www.eigenlayer.xyz",
-        "icon": "points_eigenlayer.jpg",
-        "pools": [
-            "0xb61371ab661b1acec81c699854d2f911070c059e000000000000000000000516",
-            "0x90e6cb5249f5e1572afbf8a96d8a1ca6acffd73900000000000000000000055c",
-            "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
-            "0x596192bb6e41802428ac943d2f1476c1af25cc0e000000000000000000000659",
-            "0x58aadfb1afac0ad7fca1148f3cde6aedf5236b6d00000000000000000000067f",
-            "0x73a7fe27fe9545d53924e529acf11f3073841b9e000000000000000000000133"
-        ]
-    },
-    {
         "id": "points_swell",
         "name": "Points (Swell)",
         "description": "Receives Swell points",
@@ -72,27 +57,6 @@
             "0xd4ec150896f1784b5be2b3af460d2cb2b8c0f522000200000000000000000069",
             "0xe58cd0c79cdff6252476b3445bee1400503e0ae0000200000000000000000066",
             "0x9f826c576b1f821df31ca6d58c9443db25a81d65000200000000000000000064"
-        ]
-    },
-    {
-        "id": "points_renzo",
-        "name": "Points (Renzo)",
-        "description": "LPs in this pool earn 1x points on the amount of ezEth liquidity provided to the pool",
-        "value": "1",
-        "url": "https://app.renzoprotocol.com",
-        "icon": "points_renzo.jpg",
-        "pools": ["0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a"]
-    },
-    {
-        "id": "points_renzo_4x",
-        "name": "Points (Renzo)",
-        "description": "LPs in this pool earn 4x ezPoints on the TVL provided to the pool (wEth + ezEth)",
-        "value": "4",
-        "url": "https://app.renzoprotocol.com",
-        "icon": "points_renzo.jpg",
-        "pools": [
-            "0xb61371ab661b1acec81c699854d2f911070c059e000000000000000000000516",
-            "0x596192bb6e41802428ac943d2f1476c1af25cc0e000000000000000000000659"
         ]
     },
     {
