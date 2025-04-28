@@ -52,7 +52,7 @@
             "warning": {
                 "text": "Please consider migrating liquidity to the new Boosted osETH pool on Balancer V3, address: 0x57c23c58b1d8c3292c15becf07c62c5c52457a42",
                 "type": "error"
-            },
+            }
         }
     }
 }
