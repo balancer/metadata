@@ -433,5 +433,35 @@
         "url": "https://resolv.xyz/",
         "icon": "resolv.svg",
         "pools": ["0x5b14ce8de84448e9a6f6af652af318472aa4fcaf"]
+    },
+    {
+        "id": "points_turtle_inception_points",
+        "name": "Turtle InceptionLRT Points",
+        "description": "Receives Turtle InceptionLRT points",
+        "url": "https://turtle.club/",
+        "icon": "turtle_inceptionlrt.png",
+        "pools": [
+            "0x2bd57acd9f52a8d323a088a072a805108bf015a2"
+        ]
+    },
+    {
+        "id": "points_ditto_points",
+        "name": "Ditto Network Points",
+        "description": "Receives Ditto Network points",
+        "url": "https://dittonetwork.io/",
+        "icon": "ditto_network_points.png",
+        "pools": [
+            "0x2bd57acd9f52a8d323a088a072a805108bf015a2"
+        ]
+    },
+    {
+        "id": "points_mevcommit",
+        "name": "Mev-commit Points",
+        "description": "Receives Mev-commit points",
+        "url": "https://primev.xyz/",
+        "icon": "mev-commit-points.png",
+        "pools": [
+            "0x2bd57acd9f52a8d323a088a072a805108bf015a2"
+        ]
     }
 ]
