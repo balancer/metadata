@@ -446,7 +446,7 @@
     },
     {
         "id": "points_ditto_points",
-        "name": "Ditto Network Points",
+        "name": "Ditto Network Loyalty Points",
         "description": "Receives Ditto Network points",
         "url": "https://dittonetwork.io/",
         "icon": "ditto_network_points.png",
