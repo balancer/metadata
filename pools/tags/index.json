@@ -398,7 +398,7 @@
         "value": "3",
         "url": "https://www.inceptionlrt.com/app/restaking/",
         "icon": "points_inception.svg",
-        "pools": ["0x2bd57acd9f52a8d323a088a072a805108bf015a2"]
+        "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     },
     {
         "id": "points_mellow",
@@ -406,7 +406,7 @@
         "description": "Receives Mellow points",
         "url": "https://mellow.finance/",
         "icon": "points_mellow.svg",
-        "pools": ["0x2bd57acd9f52a8d323a088a072a805108bf015a2"]
+        "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     },
     {
         "id": "points_symbiotic",
@@ -414,7 +414,7 @@
         "description": "Receives Symbiotic points",
         "url": "https://symbiotic.fi/",
         "icon": "points_symbiotic.png",
-        "pools": ["0x2bd57acd9f52a8d323a088a072a805108bf015a2"]
+        "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     },
     {
         "id": "openeden_bills_points",
@@ -441,7 +441,7 @@
         "url": "https://turtle.club/",
         "icon": "turtle_inceptionlrt.png",
         "pools": [
-            "0x2bd57acd9f52a8d323a088a072a805108bf015a2"
+            "0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"
         ]
     },
     {
@@ -451,7 +451,7 @@
         "url": "https://dittonetwork.io/",
         "icon": "ditto_network_points.png",
         "pools": [
-            "0x2bd57acd9f52a8d323a088a072a805108bf015a2"
+            "0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"
         ]
     },
     {
@@ -461,7 +461,7 @@
         "url": "https://primev.xyz/",
         "icon": "mev-commit-points.png",
         "pools": [
-            "0x2bd57acd9f52a8d323a088a072a805108bf015a2"
+            "0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"
         ]
     }
 ]
