@@ -48,10 +48,10 @@
         }
     },
     "1": {
-        "0xdacf5fa19b1f720111609043ac67a9818262850c000000000000000000000635": {
+        "0xdacf5fa19b1f720111609043ac67a9818262850c": {
             "warning": {
                 "text": "Please consider migrating liquidity to the new Boosted osETH pool on Balancer V3, address: 0x57c23c58b1d8c3292c15becf07c62c5c52457a42",
-                "type": "error"
+                "type": "warning"
             }
         }
     }
