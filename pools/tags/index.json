@@ -250,7 +250,7 @@
     {
         "id": "points_sonic_4x",
         "name": "Sonic Points Program",
-        "description": "Earn 4x Sonic Activity points for supplying wETH, LBTC or USDT. Receive a share of the 200M S airdrop!",
+        "description": "Earn 4x Sonic Activity points for supplying wETH, USDT, x33, Shadow or Beets. Receive a share of the 200M S airdrop!",
         "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
@@ -260,7 +260,9 @@
             "0x308ebea1dc4ead75f0aebd1569e39354e26ae9e600020000000000000000009c",
             "0x83952912178aa33c3853ee5d942c96254b235dcc0002000000000000000000ab",
             "0x8620fcf1abdf72d35a0577e0bc9653e1f088fc34",
-            "https://beets.fi/pools/sonic/v2/0x96471ade87a33a0cf5c16192acb1d069339637210002000000000000000000ec"
+            "0x96471ade87a33a0cf5c16192acb1d069339637210002000000000000000000ec",
+            "0xe3a50e263aef0a0b0b83ddef7e8ad45f8323c4500001000000000000000000f7",
+            "0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8000200000000000000000005"
         ]
     },
     {
@@ -288,7 +290,9 @@
             "0x8620fcf1abdf72d35a0577e0bc9653e1f088fc34",
             "0x1cEBC031700F23df70e725Fb8c57eA8aFBA7DbB2",
             "0x5e13fEb3f33d53851bD979d74bc9Dd52062b01e9",
-            "0x1dcc33704eb019ba2ace6705210195babf138a0e0002000000000000000000ef"
+            "0x1dcc33704eb019ba2ace6705210195babf138a0e0002000000000000000000ef",
+            "0xe3a50e263aef0a0b0b83ddef7e8ad45f8323c4500001000000000000000000f7",
+            "0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8000200000000000000000005"
         ]
     },
     {
@@ -313,7 +317,7 @@
             "0x442df4bdcfc5afb11571dad8885ff51a9d15e753000200000000000000000036",
             "0x54Ca9aad90324C022bBeD0A94b7380c03aA5884A",
             "0x1dcc33704eb019ba2ace6705210195babf138a0e0002000000000000000000ef",
-            "https://beets.fi/pools/sonic/v2/0x96471ade87a33a0cf5c16192acb1d069339637210002000000000000000000ec"
+            "0x96471ade87a33a0cf5c16192acb1d069339637210002000000000000000000ec"
         ]
     },
     {
@@ -440,9 +444,7 @@
         "description": "Receives Turtle InceptionLRT points",
         "url": "https://turtle.club/",
         "icon": "turtle_inceptionlrt.png",
-        "pools": [
-            "0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"
-        ]
+        "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     },
     {
         "id": "points_ditto_points",
@@ -450,9 +452,7 @@
         "description": "Receives Ditto Network points",
         "url": "https://dittonetwork.io/",
         "icon": "ditto_network_points.png",
-        "pools": [
-            "0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"
-        ]
+        "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     },
     {
         "id": "points_mevcommit",
@@ -460,8 +460,6 @@
         "description": "Receives Mev-commit points",
         "url": "https://primev.xyz/",
         "icon": "mev-commit-points.png",
-        "pools": [
-            "0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"
-        ]
+        "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     }
 ]
