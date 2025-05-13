@@ -3,7 +3,7 @@
         "id": "boosted_aave",
         "name": "Aave Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Aave tokens, which generate yield from lending activities on the Aave protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "aave_boosted.svg",
+        "icon": "aave_boosted.png",
         "addresses": {
             "1": [
                 "0x0bfc9d54Fc184518A81162F8fB99c2eACa081202",
@@ -78,7 +78,7 @@
         "id": "boosted_morpho",
         "name": "Morpho Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Morpho vault tokens. Morpho Vaults generate yield from over-collateralized lending. Borrowers deposit collateral and borrow liquidity from the underlying markets, paying interest to the vault.",
-        "icon": "morpho_boosted.svg",
+        "icon": "morpho_boosted.png",
         "addresses": {
             "1": [
                 "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
@@ -96,7 +96,7 @@
         "id": "boosted_avalon",
         "name": "Avalon Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Avalon tokens, which generate yield from lending activities on the Avalon protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "avalon_boosted.svg",
+        "icon": "avalon_boosted.png",
         "addresses": {
             "146": ["0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a", "0xa28d4dbcc90c849e3249d642f356d85296a12954"]
         }
@@ -105,7 +105,7 @@
         "id": "boosted_silo",
         "name": "Silo Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo tokens, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "silo_boosted.svg",
+        "icon": "silo_boosted.png",
         "addresses": {
             "146": [
                 "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
@@ -127,7 +127,7 @@
         "id": "boosted_euler",
         "name": "Euler Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by Euler tokens, which generate yield from lending activities on the Euler protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "euler_boosted.svg",
+        "icon": "euler_boosted.png",
         "addresses": {
             "43114": [
                 "0x5030183b3dd0105d69d7d45595c120fc4b542ec3",
@@ -158,7 +158,7 @@
         "id": "boosted_beefy",
         "name": "Beefy Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by Beefy Vaults, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "beefy_boosted.svg",
+        "icon": "beefy_boosted.png",
         "addresses": {
             "146": ["0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a"]
         }
