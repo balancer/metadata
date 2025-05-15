@@ -19,6 +19,15 @@
         "pools": ["0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652", "0x424d19d482a891b2c5cb881d651fbc32b349cb3c", "0x21f132ade35684b230af974b80b5bfd2678ebd80", "0xb6a9a815d98cb98fd9f2353ec59de07b63f5b485"]
     },
     {
+        "id": "points_pareto",
+        "name": "Pareto Efficiency Points",
+        "description": "Receives Pareto Efficiency points",
+        "value": "3",
+        "url": "https://pareto.credit/",
+        "icon": "pareto.svg",
+        "pools": ["0x114907c2a07978c38ebb9f9f6a5261a846b79521"]
+    },
+    {
         "id": "points_swell",
         "name": "Points (Swell)",
         "description": "Receives Swell points",
