@@ -16,7 +16,12 @@
         "value": "2x",
         "url": "https://yield.fi",
         "icon": "points_yieldfi.jpg",
-        "pools": ["0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652", "0x424d19d482a891b2c5cb881d651fbc32b349cb3c", "0x21f132ade35684b230af974b80b5bfd2678ebd80", "0xb6a9a815d98cb98fd9f2353ec59de07b63f5b485"]
+        "pools": [
+            "0x7abe8caa137cdb2490a9fa9f8be70cfbb0ff8652",
+            "0x424d19d482a891b2c5cb881d651fbc32b349cb3c",
+            "0x21f132ade35684b230af974b80b5bfd2678ebd80",
+            "0xb6a9a815d98cb98fd9f2353ec59de07b63f5b485"
+        ]
     },
     {
         "id": "points_pareto",
@@ -253,7 +258,9 @@
                 "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
                 "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
                 "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
-                "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47"
+                "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+                "0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba",
+                "0xe6605932e4a686534d19005bb9db0fba1f101272"
             ]
         }
     },
