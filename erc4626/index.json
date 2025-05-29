@@ -129,7 +129,7 @@
         "id": "boosted_varlamore",
         "name": "Varlamore Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by Varlamore. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "silo_boosted.png",
+        "icon": "varlamore_boosted.png",
         "addresses": {
             "146": [
                 "0xF6F87073cF8929C206A77b0694619DC776F89885",
