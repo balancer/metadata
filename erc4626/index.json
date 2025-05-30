@@ -204,7 +204,7 @@
         "description": "This boosted pool's underlying mechanics are powered by infiniFi & Ethena tokens. siUSD earns yield from fractional reserve deployments of capital into lending markets & illiquid, higher yielding assets like Pendle PTs & Ethena sUSDe. sUSDe earns yield from the tokenized strategy for farming funding rates as provided through Ethena Finance.",
         "icon": "infiniFi_boosted.png",
         "addresses": {
-            "1": ["0xdbdc1ef57537e34680b898e1febd3d68c7389bcb"],
+            "1": ["0xdbdc1ef57537e34680b898e1febd3d68c7389bcb"]
         }
     }
 ]
