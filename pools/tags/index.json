@@ -225,7 +225,8 @@
             "0xb819feef8f0fcdc268afe14162983a69f6bf179e000000000000000000000689",
             "0x8d93b853849b9884e2bb413444ec23eb5366ee910002000000000000000006b3",
             "0x33251abecb0364df98a27a8d5d7b5ccddc774c42000000000000000000000008",
-            "0xc1d48bb722a22cc6abf19facbe27470f08b3db8c"
+            "0xc1d48bb722a22cc6abf19facbe27470f08b3db8c",
+            "0x071828ACC755314E687448703775F22194f56867"
         ]
     },
     {
@@ -478,5 +479,14 @@
         "url": "https://primev.xyz/",
         "icon": "mev-commit-points.png",
         "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
+    },
+    {
+        "id": "points_infinifi",
+        "name": "infiniFi Points",
+        "value": "1.5",
+        "description": "infiniFi points",
+        "url": "https://infinifi.xyz/",
+        "icon": "infinifi-points.png",
+        "pools": ["0x071828ACC755314E687448703775F22194f56867"]
     }
 ]
