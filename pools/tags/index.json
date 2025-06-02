@@ -481,7 +481,6 @@
         "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     },
     {
-        {
         "id": "points_infinifi",
         "name": "infiniFi Points",
         "value": "1.5",
