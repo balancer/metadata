@@ -503,5 +503,5 @@
         "url": "https://infinifi.xyz/",
         "icon": "infinifi_points.png",
         "pools": ["0x071828ACC755314E687448703775F22194f56867"]
-    },
+    }
 ]
