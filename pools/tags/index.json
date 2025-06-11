@@ -498,10 +498,10 @@
     {
         "id": "points_infinifi",
         "name": "infiniFi Points",
-        "value": "1.5",
+        "value": "3",
         "description": "infiniFi points",
         "url": "https://infinifi.xyz/",
         "icon": "infinifi_points.png",
-        "pools": ["0x071828ACC755314E687448703775F22194f56867"]
+        "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470"]
     }
 ]
