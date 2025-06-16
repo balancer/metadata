@@ -265,10 +265,10 @@
         }
     },
     {
-        "id": "points_sonic_4x",
+        "id": "points_sonic_2x",
         "name": "Sonic Points Program",
-        "description": "Earn 4x Sonic Activity points for supplying wETH, USDT, x33, Shadow or Beets. Receive a share of the 200M S airdrop!",
-        "value": "4",
+        "description": "Earn 2x Sonic points for supplying wETH, USDT, x33, Shadow or Beets. Receive a share of the 200M S airdrop!",
+        "value": "2",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [
@@ -283,10 +283,10 @@
         ]
     },
     {
-        "id": "points_sonic_8x",
+        "id": "points_sonic_4x",
         "name": "Sonic Points Program",
-        "description": "Earn 8x Sonic Activity points for suppliying wS, stS, OS, wOS, anS, wanS, beS, scETH or scBTC. Receive a share of the 200M S airdrop!",
-        "value": "8",
+        "description": "Earn 4x Sonic Activity points for suppliying wS, stS, OS, wOS, anS, wanS, beS, scETH or scBTC. Receive a share of the 200M S airdrop!",
+        "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [
@@ -313,10 +313,10 @@
         ]
     },
     {
-        "id": "points_sonic_12x",
+        "id": "points_sonic_6x",
         "name": "Sonic Points Program",
-        "description": "Earn 12x Sonic Activity points for supplying USDC.e, scUSD or wstkscUSD. Receive a share of the 200M S airdrop!",
-        "value": "12",
+        "description": "Earn 6x Sonic Activity points for supplying USDC, scUSD or wstkscUSD. Receive a share of the 200M S airdrop!",
+        "value": "6",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [
@@ -338,10 +338,10 @@
         ]
     },
     {
-        "id": "points_sonic_24x",
+        "id": "points_sonic_12x",
         "name": "Sonic Points Program",
-        "description": "Earn 24x Sonic Activity points for supplying boosted USDC.e into Silo or Aave. Receive a share of the 200M S airdrop!",
-        "value": "24",
+        "description": "Earn 12x Sonic Activity points for supplying boosted USDC into Silo or Aave. Receive a share of the 200M S airdrop!",
+        "value": "12",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
         "pools": [
