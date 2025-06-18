@@ -512,5 +512,14 @@
         "url": "https://app.falcon.finance/miles",
         "icon": "points_falcon.png",
         "pools": ["0x6c5972311191097d002e804a9bf97c96c54059ed"]
+    },
+    {
+        "id": "points_resolv_extrafi",
+        "name": "Resolv",
+        "description": "LPs earn Resolv Points on the TVL in the pool. The points boost increases rewards based on the total pool capital, not just USR. Your daily Resolv points value is calculated and distributed based upon your share of the liquidity pool",
+        "value": "30",
+        "url": "https://resolv.xyz/",
+        "icon": "resolv.svg",
+        "pools": ["0xe3a85e913f967406823cde9c390ae7bad9496367"]
     }
 ]
