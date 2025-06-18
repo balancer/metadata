@@ -206,5 +206,13 @@
         "addresses": {
             "1": ["0xdbdc1ef57537e34680b898e1febd3d68c7389bcb"]
         }
+    },
+    {
+        "id": "boosted_extrafi",
+        "name": "Extra Finance Boosted",
+        "description": "This Boosted Pool is powered by wrapped Extrafi XLend tokens, which earn yield through lending activity on the Extrafi XLend protocol—driving continuous growth in the pool’s total value.",
+        "addresses": {
+            "1": ["0xe3a85e913f967406823cde9c390ae7bad9496367"]
+        }
     }
 ]
