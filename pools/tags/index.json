@@ -503,5 +503,14 @@
         "url": "https://infinifi.xyz/",
         "icon": "infinifi_points.png",
         "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470"]
+    },
+    {
+        "id": "points_falcon",
+        "name": "Points (Falcon)",
+        "description": "LPs earns Falcon's Miles based on the TVL of the pool",
+        "value": "40",
+        "url": "https://app.falcon.finance/miles",
+        "icon": "points_falcon.png",
+        "pools": ["0x6c5972311191097d002e804a9bf97c96c54059ed"]
     }
 ]
