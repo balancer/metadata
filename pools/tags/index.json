@@ -226,7 +226,7 @@
             "0x8d93b853849b9884e2bb413444ec23eb5366ee910002000000000000000006b3",
             "0x33251abecb0364df98a27a8d5d7b5ccddc774c42000000000000000000000008",
             "0xc1d48bb722a22cc6abf19facbe27470f08b3db8c",
-            "0x733f2d3f66d3f41bde65d95321a19a1e55bb5470"
+            "0x071828acc755314e687448703775f22194f56867"
         ]
     },
     {
@@ -503,7 +503,7 @@
         "description": "infiniFi points",
         "url": "https://infinifi.xyz/",
         "icon": "infinifi_points.png",
-        "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470"]
+        "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470", "0x071828acc755314e687448703775f22194f56867"]
     },
     {
         "id": "points_falcon",
