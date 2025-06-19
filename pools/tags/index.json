@@ -522,5 +522,14 @@
         "url": "https://resolv.xyz/",
         "icon": "resolv.svg",
         "pools": ["0xe3a85e913f967406823cde9c390ae7bad9496367"]
+    },
+    {
+        "id": "points_yo",
+        "name": "Yo",
+        "description": "Liquidity providers in this pool earn an additional multiplier of daily YO points based on their deposits.",
+        "value": "3",
+        "url": "https://app.yo.xyz/points",
+        "icon": "yo-points.png",
+        "pools": ["0xf2920b0eaecf026d18462d8d56dc8a2a5539043f", "0xe5556b41256d7efb2f0a17011ef8ab507a352141", "0xfbcb0e67d522faac3dbad0d0706bbe241ebcf73d"]
     }
 ]
