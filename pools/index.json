@@ -8,6 +8,12 @@
             "name": "Coinshift USDC/USDL",
             "description": "This boosted pool is powered by Coinshift's yield bearing stablecoins, csUSDC and csUSDL, built with Morpho, Paxos and Steakhouse.",
             "iconUrl": "https://pb-stockpile.live.coinshift.global/images/CSBalancerDark.svg"
+        },
+        "0xdacf5fa19b1f720111609043ac67a9818262850c": {
+            "warning": {
+                "text": "Please consider migrating liquidity to the new Boosted osETH pool on Balancer V3, address: 0x57c23c58b1d8c3292c15becf07c62c5c52457a42",
+                "type": "warning"
+            }
         }
     },
     "8453": {
@@ -47,10 +53,10 @@
             }
         }
     },
-    "1": {
-        "0xdacf5fa19b1f720111609043ac67a9818262850c": {
+    "146": {
+        "0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8": {
             "warning": {
-                "text": "Please consider migrating liquidity to the new Boosted osETH pool on Balancer V3, address: 0x57c23c58b1d8c3292c15becf07c62c5c52457a42",
+                "text": "Please manage your liquidity on the maBEETS page.",
                 "type": "warning"
             }
         }
