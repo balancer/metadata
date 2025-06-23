@@ -52,5 +52,13 @@
                 "type": "error"
             }
         }
+    },
+    "146": {
+        "0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8": {
+            "warning": {
+                "text": "Please manage your liquidity on the maBEETS page.",
+                "type": "warning"
+            }
+        }
     }
 }
