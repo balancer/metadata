@@ -209,5 +209,14 @@
         "addresses": {
             "8453": ["0x589a7339c6d0c8777e7429f57f2f95c069c37288", "0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f"]
         }
+    },
+    {
+        "id": "boosted_resolv",
+        "name": "Resolv Boosted",
+        "description": "",
+        "icon": "",
+        "addresses": {
+            "1": ["0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"]
+        }
     }
 ]
