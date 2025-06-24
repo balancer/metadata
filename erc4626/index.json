@@ -214,7 +214,7 @@
         "id": "boosted_resolv",
         "name": "Resolv Boosted",
         "description": "",
-        "icon": "",
+        "icon": "resolv_boosted.png",
         "addresses": {
             "1": ["0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"]
         }
