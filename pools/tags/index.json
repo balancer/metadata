@@ -272,7 +272,7 @@
         "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
-        "pools": [],
+        "pools": ["0x8620fcf1abdf72d35a0577e0bc9653e1f088fc34"],
         "tokens": {
             "146": [
                 "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
@@ -293,7 +293,11 @@
         "value": "8",
         "url": "https://docs.soniclabs.com/funding/sonic-airdrop/sonic-points",
         "icon": "sonic.svg",
-        "pools": [],
+        "pools": [
+            "0x43026d483f42fb35efe03c20b251142d022783f2",
+            "0x54ca9aad90324c022bbed0a94b7380c03aa5884a",
+            "0x5103ea917605463fc497396ba89d6732ce4b2d70"
+        ],
         "tokens": {
             "146": [
                 "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
@@ -309,7 +313,7 @@
         "value": "10",
         "url": "https://docs.soniclabs.com/funding/sonic-airdrop/sonic-points",
         "icon": "sonic.svg",
-        "pools": [],
+        "pools": ["0x54ca9aad90324c022bbed0a94b7380c03aa5884a", "0x5103ea917605463fc497396ba89d6732ce4b2d70"],
         "tokens": {
             "146": [
                 "0x3333111a391cc08fa51353e9195526a70b333333",
@@ -337,7 +341,7 @@
         "value": "12",
         "url": "https://docs.soniclabs.com/funding/sonic-airdrop/sonic-points",
         "icon": "sonic.svg",
-        "pools": [],
+        "pools": ["0xf6862d5a5521c1ca2f41b8ce94f124b2df7090e2", "0x944d4ae892de4bfd38742cc8295d6d5164c5593c"],
         "tokens": {
             "146": [
                 "0xe5da20f15420ad15de0fa650600afc998bbe3955",
