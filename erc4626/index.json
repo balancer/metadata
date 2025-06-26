@@ -141,6 +141,15 @@
         }
     },
     {
+        "id": "boosted_re7",
+        "name": "Re7 Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by re7. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "re7_boosted.png",
+        "addresses": {
+            "146": ["0x592d1e187729c76efacc6dffb9355bd7bf47b2a7"]
+        }
+    },
+    {
         "id": "boosted_euler",
         "name": "Euler Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by Euler tokens, which generate yield from lending activities on the Euler protocol, resulting in continuous appreciation of the pool's total value.",
