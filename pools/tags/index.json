@@ -533,7 +533,7 @@
         "id": "points_yo",
         "name": "Yo",
         "description": "Liquidity providers in this pool earn an additional multiplier of daily YO points based on their deposits.",
-        "value": "3",
+        "value": "4",
         "url": "https://app.yo.xyz/points",
         "icon": "yo-points.png",
         "pools": [
