@@ -28,7 +28,7 @@
         "name": "Pareto Efficiency Points",
         "description": "Receives Pareto Efficiency points",
         "value": "3",
-        "url": "https://pareto.credit/",
+        "url": "https://app.pareto.credit/points",
         "icon": "pareto.svg",
         "pools": ["0x114907c2a07978c38ebb9f9f6a5261a846b79521"]
     },
