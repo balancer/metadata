@@ -293,7 +293,11 @@
         "value": "8",
         "url": "https://docs.soniclabs.com/funding/sonic-airdrop/sonic-points",
         "icon": "sonic.svg",
-        "pools": ["0x43026d483f42fb35efe03c20b251142d022783f2", "0x54ca9aad90324c022bbed0a94b7380c03aa5884a"],
+        "pools": [
+            "0x43026d483f42fb35efe03c20b251142d022783f2",
+            "0x54ca9aad90324c022bbed0a94b7380c03aa5884a",
+            "0x5103ea917605463fc497396ba89d6732ce4b2d70"
+        ],
         "tokens": {
             "146": [
                 "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
