@@ -550,7 +550,25 @@
         "description": "infiniFi points",
         "url": "https://infinifi.xyz/",
         "icon": "infinifi_points.png",
-        "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470", "0x071828acc755314e687448703775f22194f56867"]
+        "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470"]
+    },
+    {
+        "id": "points_infinifi",
+        "name": "infiniFi Points",
+        "value": "1.5",
+        "description": "infiniFi points",
+        "url": "https://infinifi.xyz/",
+        "icon": "infinifi_points.png",
+        "pools": ["0x071828acc755314e687448703775f22194f56867"]
+    },
+    {
+        "id": "points_infinifi",
+        "name": "infiniFi Points",
+        "value": "2",
+        "description": "infiniFi points",
+        "url": "https://infinifi.xyz/",
+        "icon": "infinifi_points.png",
+        "pools": ["0xAfC1730DbFC7fb0Fa01Ec832ec5578a6706E4Ee6"]
     },
     {
         "id": "points_falcon",
