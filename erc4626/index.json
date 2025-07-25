@@ -231,5 +231,73 @@
         "addresses": {
             "1": ["0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"]
         }
+    },
+    {
+        "id": "boosted_hyperbeat",
+        "name": "Hyperbeat Boosted",
+        "description": "",
+        "icon": "hyperbeat_boosted.png",
+        "addresses": {
+            "999": [
+                "0x53a333e51e96fe288bc9add7cdc4b1ead2cd2ffa",
+                "0x5eec795d919fa97688fb9844eeb0072e6b846f9d",
+                "0xd3a9cb7312b9c29113290758f5adfe12304cd16a",
+                "0xd19e3d00f8547f7d108abfd4bbb015486437b487",
+                "0x0571362ba5ea9784a97605f57483f865a37dbeaa",
+                "0x4346c98e690c17efbb999ae8e1da96b089be320b"
+            ]
+        }
+    },
+    {
+        "id": "boosted_felix",
+        "name": "Felix Boosted",
+        "description": "",
+        "icon": "felix_boosted.png",
+        "addresses": {
+            "999": [
+                "0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e",
+                "0xfc5126377f0efc0041c0969ef9ba903ce67d151e",
+                "0x835febf893c6dddee5cf762b0f8e31c5b06938ab",
+                "0xd19e3d00f8547f7d108abfd4bbb015486437b487",
+                "0x2900abd73631b2f60747e687095537b673c06a76"
+            ]
+        }
+    },
+    {
+        "id": "boosted_hyperdrive",
+        "name": "Hyperdrive Boosted",
+        "description": "",
+        "icon": "hyperdrive_boosted.png",
+        "addresses": {
+            "999": [
+                "0xa522572cf63e6ceed49db6c77cd9ec76c1d47d09",
+                "0x6fcd93da1e2a288ae68bb1d4f856d8d598e8b861"
+            ]
+        }
+    },
+    {
+        "id": "boosted_hyperlend",
+        "name": "HyperLend Boosted",
+        "description": "",
+        "icon": "hyperlend_boosted.png",
+        "addresses": {
+            "999": [
+                "0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5",
+                "0xd704254eb350e0d3baecd194d095862267897ae0",
+                "0x0ab8aae3335ed4b373a33d9023b6a6585b149d33"
+            ]
+        }
+    },
+    {
+        "id": "boosted_hypurrfi",
+        "name": "HypurrFi Boosted",
+        "description": "",
+        "icon": "hypurrfi_boosted.png",
+        "addresses": {
+            "999": [
+                "0x1c5164a764844356d57654ea83f9f1b72cd10db5",
+                "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad"
+            ]
+        }
     }
 ]
