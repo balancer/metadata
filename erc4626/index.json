@@ -235,7 +235,7 @@
     {
         "id": "boosted_hyperbeat",
         "name": "Hyperbeat Boosted",
-        "description": "",
+        "description": "This Boosted pool's underlying mechanics are powered by Hyperbeat vault tokens, which generate yield from non-custodial smart contracts optimizing liquidity across the HyperEVM ecosystem by interacting with Hypercore and HyperEVM, offering higher base yields through greater capital flexibility.",
         "icon": "hyperbeat_boosted.png",
         "addresses": {
             "999": [
@@ -251,7 +251,7 @@
     {
         "id": "boosted_felix",
         "name": "Felix Boosted",
-        "description": "",
+        "description": "This Boosted pool's underlying mechanics are powered by Felix vault tokens, which generate yield from on-chain borrowing and lending products on Hyperliquid L1, including CDP markets for leveraged trading and vanilla markets for variable-rate lending pools.",
         "icon": "felix_boosted.png",
         "addresses": {
             "999": [
@@ -265,7 +265,7 @@
     {
         "id": "boosted_hyperdrive",
         "name": "Hyperdrive Boosted",
-        "description": "",
+        "description": "This Boosted pool's underlying mechanics are powered by Hyperdrive vault tokens, which generate yield from Hyperliquid's premier DeFi hub featuring lending, borrowing, liquid staking, leveraged HLP vaults, and one-click yield strategies.",
         "icon": "hyperdrive_boosted.png",
         "addresses": {
             "999": [
@@ -277,7 +277,7 @@
     {
         "id": "boosted_hyperlend",
         "name": "HyperLend Boosted",
-        "description": "",
+        "description": "This Boosted pool's underlying mechanics are powered by HyperLend vault tokens, which generate yield from a high-performance lending protocol built for capital efficiency, offering real-time leverage, dynamic rates, and deep liquidity access.",
         "icon": "hyperlend_boosted.png",
         "addresses": {
             "999": [
@@ -290,7 +290,7 @@
     {
         "id": "boosted_hypurrfi",
         "name": "HypurrFi Boosted",
-        "description": "",
+        "description": "This Boosted pool's underlying mechanics are powered by HypurrFi vault tokens, which generate yield from a leveraged lending marketplace featuring clean leverage loops and the USDXL hybrid synthetic dollar backed by productive reserves of tokenized U.S. Treasuries.",
         "icon": "hypurrfi_boosted.png",
         "addresses": {
             "999": [
