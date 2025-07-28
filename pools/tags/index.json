@@ -438,7 +438,7 @@
         "pools": ["0x83952912178aa33c3853ee5d942c96254b235dcc0002000000000000000000ab"]
     },
     {
-        "id": "points_dTRINITY_dt_50x",
+        "id": "points_dtrinity_50x",
         "name": "dT Points",
         "description": "Earn 50x dT Points",
         "value": "50",
