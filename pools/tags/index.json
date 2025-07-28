@@ -553,7 +553,7 @@
         "pools": ["0x6d0216cf4b6741b23b4beeda42b7100eb8a7ca0c"]
     },
     {
-        "id": "points_infinifi",
+        "id": "points_infinifi_3x",
         "name": "infiniFi Points",
         "value": "3",
         "description": "infiniFi points",
@@ -562,7 +562,7 @@
         "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470"]
     },
     {
-        "id": "points_infinifi",
+        "id": "points_infinifi_1.5x",
         "name": "infiniFi Points",
         "value": "1.5",
         "description": "infiniFi points",
@@ -571,7 +571,7 @@
         "pools": ["0x071828acc755314e687448703775f22194f56867"]
     },
     {
-        "id": "points_infinifi",
+        "id": "points_infinifi_2x",
         "name": "infiniFi Points",
         "value": "2",
         "description": "infiniFi points",
