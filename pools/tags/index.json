@@ -438,6 +438,15 @@
         "pools": ["0x83952912178aa33c3853ee5d942c96254b235dcc0002000000000000000000ab"]
     },
     {
+        "id": "points_dTRINITY_dt_50x",
+        "name": "dTRINITY",
+        "description": "Earn 50x dT Points",
+        "value": "50",
+        "url": "https://docs.dtrinity.org/key-concepts/points-program",
+        "icon": "points_dt.png",
+        "pools": ["0x2585d4325b3ccdc69e5e3b6cdcbedbe7c9774612"]
+    },
+    {
         "id": "points_coinshift",
         "name": "SHIFT Rewards",
         "description": "LPs in this pool earn up to 25% APY in SHIFT rewards.",
