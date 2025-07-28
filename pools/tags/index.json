@@ -429,7 +429,7 @@
         }
     },
     {
-        "id": "points_lombard__lux_3x",
+        "id": "points_lombard_lux_3x",
         "name": "Lombard Lux",
         "description": "Earn 3x Lombard Lux for supplying scBTC & LBTC",
         "value": "3",
@@ -439,7 +439,7 @@
     },
     {
         "id": "points_dTRINITY_dt_50x",
-        "name": "dTRINITY",
+        "name": "dT Points",
         "description": "Earn 50x dT Points",
         "value": "50",
         "url": "https://docs.dtrinity.org/key-concepts/points-program",
