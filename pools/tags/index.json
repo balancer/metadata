@@ -501,7 +501,7 @@
         "value": "10",
         "url": "https://portal.openeden.com/bills-campaign",
         "icon": "bills-points-icon.png",
-        "pools": ["0x046dccb728c39f8aa69e47dac0ebdad8d2cddfe9"]
+        "pools": ["0x046dccb728c39f8aa69e47dac0ebdad8d2cddfe9", "0xed487afc303358d528fe76781ebd03a7470a9712"]
     },
     {
         "id": "points_resolv",
@@ -510,7 +510,7 @@
         "value": "30x",
         "url": "https://resolv.xyz/",
         "icon": "resolv.svg",
-        "pools": ["0x5b14ce8de84448e9a6f6af652af318472aa4fcaf"]
+        "pools": ["0x5b14ce8de84448e9a6f6af652af318472aa4fcaf", "0xed487afc303358d528fe76781ebd03a7470a9712"]
     },
     {
         "id": "points_turtle_inception_points",
