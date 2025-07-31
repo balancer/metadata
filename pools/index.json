@@ -59,6 +59,12 @@
                 "text": "Please manage your liquidity on the maBEETS page.",
                 "type": "warning"
             }
+        },
+        "0xff4af8b7046d17d7bc16e125fc736b85605b1afb": {
+            "description": "This concentrated liquidity pool automatically tracks market price using a live feed, keeping liquidity in range to maximise swap fees with zero management required."
+        },
+        "0xaef211ff62d7f7e6f00e9f8c5188ba2cfd33d409": {
+            "description": "This concentrated liquidity pool automatically tracks market price using a live feed, keeping liquidity in range to maximise swap fees with zero management required."
         }
     }
 }
