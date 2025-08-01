@@ -227,7 +227,7 @@
     {
         "id": "boosted_resolv",
         "name": "Resolv Boosted",
-        "description": "",
+        "description": "This Boosted pool's underlying mechanics are powered by staking USR to receive allocation of Resolv collateral pool profits. wstUSR is the non-rebasing version of staked USR, which accrues value over time from staking rewards.",
         "icon": "resolv_boosted.png",
         "addresses": {
             "1": ["0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"]
