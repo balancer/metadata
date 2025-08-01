@@ -1,21 +1,21 @@
 [
     {
-        "id": "0x7967fa58b9501600d96bd843173b9334983ee6e600020000000000000000056e",
-        "imageUrl": "https://v3.balancer.fi/images/chains/ARBITRUM.svg",
-        "chainId": 42161,
+        "id": "0x8207c7541ce31b38dbd46890f2a832cf1ef7c512",
+        "imageUrl": "https://v3.balancer.fi/images/chains/HYPEREVM.svg",
+        "chainId": 999,
         "primary": true,
-        "description": "Elliptical Concentrated Liquidity"
+        "description": "Balancer v3 on HyperEVM"
     },
     {
-        "id": "0x848a5564158d84b8a8fb68ab5d004fae11619a5400000000000000000000066a",
+        "id": "0x6b61d8680c4f9e560c8306807908553f95c749c5",
         "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
         "chainId": 1,
-        "description": "Liquid Restaking Tri Pool"
+        "description": "The Safe Haven BTF"
     },
     {
-        "id": "0xb819feef8f0fcdc268afe14162983a69f6bf179e000000000000000000000689",
-        "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
-        "chainId": 1,
-        "description": "Yield Bearing Stable Pool"
+        "id": "0x12c2de9522f377b86828f6af01f58c046f814d3c",
+        "imageUrl": "https://v3.balancer.fi/images/chains/BASE.svg",
+        "chainId": 8453,
+        "description": "100% Boosted reCLAMM"
     }
 ]
