@@ -441,7 +441,12 @@
         "icon": "points_silo.png",
         "pools": [],
         "tokens": {
-            "146": ["0x219656F33c58488D09d518BaDF50AA8CdCAcA2Aa", "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De"]
+            "146": [
+                "0xDED4aC8645619334186f28B8798e07ca354CFa0e",
+                "0x391b3F70E254d582588B27e97E48D1CFcdf0BE7e",
+                "0xCc7bDB3FF050D65918b96e4BDf1060a1aA0bB409",
+                "0x592D1e187729C76EfacC6dfFB9355bd7BF47B2a7"
+            ]
         }
     },
     {
