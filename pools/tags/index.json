@@ -648,5 +648,17 @@
         "url": "https://app.hyperwavefi.xyz/portfolio",
         "icon": "hyperwave-waves.svg",
         "pools": ["0x768e4f8219095d714bc7dcfd60a5ece67d32faf9"]
+    },
+    {
+      "id": "points_looping_collective",
+      "name": "LOOP Points",
+      "description": "Users that deposit LHYPE or WHLP into a pool are eligible for LOOP Points. 60% of LOOP token supply goes to holders via Early Adopter & Loyalty Rewards Program.",
+      "value": "1",
+      "url": "https://docs.loopingcollective.org/loop-utility/loop-reward-programs",
+      "icon": "points_looping_collective.png",
+      "pools": [
+        "0x2dc02134ee3b2ee3da099d2854871404f968cf82",
+        "0x3e914881614438eea85cf0e67c3624ba039b37b3"
+      ]
     }
 ]
