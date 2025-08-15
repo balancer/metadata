@@ -13,9 +13,9 @@
         "description": "The Safe Haven BTF"
     },
     {
-        "id": "0x12c2de9522f377b86828f6af01f58c046f814d3c",
+        "id": "0x19aeb8168d921bb069c6771bbaff7c09116720d0",
         "imageUrl": "https://v3.balancer.fi/images/chains/BASE.svg",
         "chainId": 8453,
-        "description": "100% Boosted reCLAMM"
+        "description": "A new reCLAMM on Base"
     }
 ]
