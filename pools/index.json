@@ -68,13 +68,13 @@
         },
         "0x5d177938870ff8cf9004af5c3248039c721dbf2a": {
             "warning": {
-                "text": "Stability has reported an exploit affecting a portion of their vaults tied to the CrediX platform.",
+                "text": "Stability has reported an exploit affecting a portion of their vaults tied to the CrediX platform. After Stability burned the affected tokens, withdrawals from this pool is no longer possible. You have been airdropped the stability recovery tokens representing your share. Check the Stability Discord for more information.",
                 "type": "error"
             }
         },
         "0x5103ea917605463fc497396ba89d6732ce4b2d70": {
             "warning": {
-                "text": "Stability has reported an exploit affecting a portion of their vaults tied to the CrediX platform.",
+                "text": "Stability has reported an exploit affecting a portion of their vaults tied to the CrediX platform. After Stability burned the affected tokens, withdrawals from this pool is no longer possible. You have been airdropped the stability recovery tokens representing your share. Check the Stability Discord for more information.",
                 "type": "error"
             }
         }
