@@ -483,7 +483,7 @@
         "value": "50",
         "url": "https://docs.dtrinity.org/key-concepts/points-program",
         "icon": "points_dt.png",
-        "pools": ["0x2585d4325b3ccdc69e5e3b6cdcbedbe7c9774612"]
+        "pools": ["0x2585d4325b3ccdc69e5e3b6cdcbedbe7c9774612", "0x90cd82715cbc4d638656c1192a4b5ed1c476c103"]
     },
     {
         "id": "points_coinshift",
