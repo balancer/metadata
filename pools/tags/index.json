@@ -655,7 +655,9 @@
         "description": "This concentrated liquidity pool automatically tracks market price using a live feed, keeping liquidity in range to maximise swap fees with zero management required.",
         "pools": [
             "0xaef211ff62d7f7e6f00e9f8c5188ba2cfd33d40900020000000000000000011c",
-            "0xff4af8b7046d17d7bc16e125fc736b85605b1afb00020000000000000000011d"
+            "0xff4af8b7046d17d7bc16e125fc736b85605b1afb00020000000000000000011d",
+            "0x7a2284a1f44fe05db25cbe382475d02ee8f339a700020000000000000000011e",
+            "0x5208f11c25a0665bcce5fa88592363f68b6e083a00020000000000000000011f"
         ]
     },
     {
