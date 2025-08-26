@@ -301,7 +301,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by HypurrFi vault tokens, which generate yield from a leveraged lending marketplace featuring clean leverage loops and the USDXL hybrid synthetic dollar backed by productive reserves of tokenized U.S. Treasuries.",
         "icon": "hypurrfi_boosted.png",
         "addresses": {
-            "999": ["0x1c5164a764844356d57654ea83f9f1b72cd10db5", "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad"]
+            "999": ["0x1c5164a764844356d57654ea83f9f1b72cd10db5", "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad", "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe"]
         }
     }
 ]
