@@ -7,13 +7,13 @@
         "description": "Balancer v3 on HyperEVM"
     },
     {
-        "id": "0x6b61d8680c4f9e560c8306807908553f95c749c5",
+        "id": "0x85b2b559bc2d21104c4defdd6efca8a20343361d",
         "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
         "chainId": 1,
-        "description": "The Safe Haven BTF"
+        "description": "100% boosted USD pool"
     },
     {
-        "id": "0x12c2de9522f377b86828f6af01f58c046f814d3c",
+        "id": "0x19aeb8168d921bb069c6771bbaff7c09116720d0",
         "imageUrl": "https://v3.balancer.fi/images/chains/BASE.svg",
         "chainId": 8453,
         "description": "New reCLAMM pool on Base"
