@@ -371,7 +371,8 @@
             "146": [
                 "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
                 "0x29219dd400f2bf60e5a23d13be72b486d4038894",
-                "0x6047828dc181963ba44974801ff68e538da5eaf9"
+                "0x6047828dc181963ba44974801ff68e538da5eaf9",
+                "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d"
             ]
         }
     },
@@ -405,7 +406,9 @@
                 "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70",
                 "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
                 "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
-                "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f"
+                "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f",
+                "0xc7990369da608c2f4903715e3bd22f2970536c29",
+                "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581"
             ]
         }
     },
@@ -676,6 +679,19 @@
         "value": "1",
         "url": "https://docs.loopingcollective.org/loop-utility/loop-reward-programs",
         "icon": "points_looping_collective.png",
-        "pools": ["0x2dc02134ee3b2ee3da099d2854871404f968cf82", "0x3e914881614438eea85cf0e67c3624ba039b37b3", "0xd10d872997e45686d2543ccb62e8f259ab44cc65"]
+        "pools": [
+            "0x2dc02134ee3b2ee3da099d2854871404f968cf82",
+            "0x3e914881614438eea85cf0e67c3624ba039b37b3",
+            "0xd10d872997e45686d2543ccb62e8f259ab44cc65"
+        ]
+    },
+    {
+        "id": "points_mainstreet",
+        "name": "Gammas Points",
+        "description": "Gammas convert to $MS (Main Street) the governance token of the protocol at the end of the season. 5% of the MS total supply is reserved for Gammas in Season 1.",
+        "value": "30",
+        "url": "https://mainstreet.finance/rewards/campaigns/",
+        "icon": "points_gamma.png",
+        "pools": ["0x0ae7fbbe97ef6387150f3ec31dac0bcca34a15ef", "0x3d71ad2852676f8a3644a37a2932e678c0b80cf3"]
     }
 ]
