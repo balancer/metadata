@@ -40,7 +40,11 @@
                 "0xa6D12574eFB239FC1D2099732bd8b5dC6306897F",
                 "0x52dc1feefa4f9a99221f93d79da46ae89b8c0967"
             ],
-            "146": ["0x6646248971427B80ce531bdD793e2Eb859347E55", "0x18B7B8695165290f2767BC63c36D3dFEa4C0F9bB"],
+            "146": [
+                "0x6646248971427B80ce531bdD793e2Eb859347E55",
+                "0x18B7B8695165290f2767BC63c36D3dFEa4C0F9bB",
+                "0xeb5e9b0ae5bb60274786c747a1a2a798c11271e0"
+            ],
             "11155111": [
                 "0xde46e43f46ff74a23a65ebb0580cbe3dfe684a17",
                 "0x8a88124522dbbf1e56352ba3de1d9f78c143751e",
@@ -301,7 +305,11 @@
         "description": "This Boosted pool's underlying mechanics are powered by HypurrFi vault tokens, which generate yield from a leveraged lending marketplace featuring clean leverage loops and the USDXL hybrid synthetic dollar backed by productive reserves of tokenized U.S. Treasuries.",
         "icon": "hypurrfi_boosted.png",
         "addresses": {
-            "999": ["0x1c5164a764844356d57654ea83f9f1b72cd10db5", "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad", "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe"]
+            "999": [
+                "0x1c5164a764844356d57654ea83f9f1b72cd10db5",
+                "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad",
+                "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe"
+            ]
         }
     }
 ]
