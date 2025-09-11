@@ -142,6 +142,20 @@
                 "0xDED4aC8645619334186f28B8798e07ca354CFa0e",
                 "0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba",
                 "0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f"
+            ],
+            "42161": [
+                "0x2BA39e5388aC6C702Cb29AEA78d52aa66832f1ee"
+            ]
+        }
+    },
+    {
+        "id": "boosted_mev",
+        "name": "MEV Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by MEV. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "mev_boosted.png",
+        "addresses": {
+            "43114 ": [
+                "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8"
             ]
         }
     },
@@ -195,7 +209,11 @@
                 "0x72f92a966f1874f74e1b601bee7cf57031b53a03",
                 "0x51b47b3013863c52ca28d603de3c2d7a5fef50b9"
             ],
-            "146": ["0x90a804D316A06E00755444D56b9eF52e5C4F4D73", "0x6832F3090867449c058e1e3088E552E12AB18F9E"]
+            "146": [
+                "0x90a804D316A06E00755444D56b9eF52e5C4F4D73",
+                "0x6832F3090867449c058e1e3088E552E12AB18F9E"
+            ],
+            "42161": ["0xe4783824593a50Bfe9dc873204CEc171ebC62dE0"]
         }
     },
     {
@@ -304,6 +322,26 @@
         }
     },
     {
+        "id": "boosted_yearn",
+        "name": "Yearn Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by Yearn vault tokens, which generate yield from automated strategies that deploy assets across DeFi protocols. Yearn vaults aggregate user deposits and optimize yield through active position management, compounding rewards, and reallocating capital to the most efficient opportunities.",
+        "icon": "yearn_boosted.png",
+        "addresses": {
+            "42161": [
+                "0x252b965400862d94bda35fecf7ee0f204a53cc36"
+            ]
+        }
+    },
+    {
+        "id": "boosted_cap",
+        "name": "CAP Boosted",
+        "description": "This boosted pool's underlying mechanics are powered by CAP. stcUSD is the yield-bearing stablecoin of Cap that enables users to earn rewards via a decentralized lending framework.",
+        "icon": "cap_boosted.png",
+        "addresses": {
+            "1": ["0x88887be419578051ff9f4eb6c858a951921d8888"]
+        }
+    },
+    {
         "id": "boosted_hyperlend",
         "name": "HyperLend Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by HyperLend vault tokens, which generate yield from a high-performance lending protocol built for capital efficiency, offering real-time leverage, dynamic rates, and deep liquidity access.",
@@ -316,6 +354,7 @@
             ]
         }
     },
+    
     {
         "id": "boosted_hypurrfi",
         "name": "HypurrFi Boosted",
