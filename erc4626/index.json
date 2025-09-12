@@ -128,6 +128,12 @@
                 "0x24c74B30d1a4261608E84Bf5a618693032681DAc",
                 "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
                 "0x42CE2234fd5a26bF161477a996961c4d01F466a3"
+            ],
+            "43114 ": [
+                "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8"
+            ],
+            "42161": [
+                "0x2BA39e5388aC6C702Cb29AEA78d52aa66832f1ee"
             ]
         }
     },
@@ -142,20 +148,6 @@
                 "0xDED4aC8645619334186f28B8798e07ca354CFa0e",
                 "0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba",
                 "0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f"
-            ],
-            "42161": [
-                "0x2BA39e5388aC6C702Cb29AEA78d52aa66832f1ee"
-            ]
-        }
-    },
-    {
-        "id": "boosted_mev",
-        "name": "MEV Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by MEV. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "mev_boosted.png",
-        "addresses": {
-            "43114 ": [
-                "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8"
             ]
         }
     },
