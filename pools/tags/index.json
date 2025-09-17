@@ -697,6 +697,17 @@
         ]
     },
     {
+        "id": "points_elixir_5x",
+        "name": "Elixir Potions",
+        "description": "Potions are Elixir's points reward system. Potions are earned via certain actions on-chain and are seen accruing in the Apothecary - https://www.elixir.xyz/apothecary",
+        "value": "5",
+        "url": "https://www.elixir.xyz/apothecary",
+        "icon": "points_elixir_potions.png",
+        "pools": [
+            "0x40dfa8e644744253f72cab80dfdd1022c30baab7"
+        ]
+    },
+    {
         "id": "points_mainstreet",
         "name": "Gammas Points",
         "description": "Gammas convert to $MS (Main Street) the governance token of the protocol at the end of the season. 5% of the MS total supply is reserved for Gammas in Season 1.",
