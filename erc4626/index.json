@@ -196,6 +196,7 @@
         "name": "Euler Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by Euler tokens, which generate yield from lending activities on the Euler protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "euler_boosted.png",
+        "readMoreURL": "https://docs.euler.finance/concepts/core/evc",
         "addresses": {
             "43114": [
                 "0x5030183b3dd0105d69d7d45595c120fc4b542ec3",
