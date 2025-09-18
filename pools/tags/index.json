@@ -329,7 +329,6 @@
                 "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
                 "0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba",
                 "0xe6605932e4a686534d19005bb9db0fba1f101272",
-                "0xcccccccca9fc69a2b32408730011edb3205a93a1",
                 "0x592d1e187729c76efacc6dffb9355bd7bf47b2a7"
             ]
         }
@@ -337,7 +336,7 @@
     {
         "id": "points_sonic_4x",
         "name": "Sonic Points Program",
-        "description": "Earn 4x Sonic points for supplying wETH, scETH, wstkscETH, wBTC, scBTC, wstkscBTC. Receive a share of the 200M S airdrop!",
+        "description": "Earn 4x Sonic points. Receive a share of the 200M S airdrop!",
         "value": "4",
         "url": "https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/",
         "icon": "sonic.svg",
@@ -365,7 +364,8 @@
         "pools": [
             "0x43026d483f42fb35efe03c20b251142d022783f2",
             "0x54ca9aad90324c022bbed0a94b7380c03aa5884a",
-            "0x5103ea917605463fc497396ba89d6732ce4b2d70"
+            "0x5103ea917605463fc497396ba89d6732ce4b2d70",
+            "0x21e5b713de55d75a061da76f08af22e76a6d06cd"
         ],
         "tokens": {
             "146": [
@@ -486,7 +486,11 @@
         "value": "50",
         "url": "https://docs.dtrinity.org/key-concepts/points-program",
         "icon": "points_dt.png",
-        "pools": ["0x2585d4325b3ccdc69e5e3b6cdcbedbe7c9774612", "0x90cd82715cbc4d638656c1192a4b5ed1c476c103"]
+        "pools": [
+            "0x2585d4325b3ccdc69e5e3b6cdcbedbe7c9774612",
+            "0x90cd82715cbc4d638656c1192a4b5ed1c476c103",
+            "0x790fd3e9b42a3955cb1b286fbfa1ac67043a69ef"
+        ]
     },
     {
         "id": "points_coinshift",
@@ -692,9 +696,7 @@
         "value": "2",
         "url": "https://www.nerite.org/writing/shells",
         "icon": "points_nerite.png",
-        "pools": [
-            "0x483bc7fe92fc392305dd97d4d3363e0e0a7f144d"
-        ]
+        "pools": ["0x483bc7fe92fc392305dd97d4d3363e0e0a7f144d"]
     },
     {
         "id": "points_elixir_5x",
@@ -703,9 +705,7 @@
         "value": "5",
         "url": "https://www.elixir.xyz/apothecary",
         "icon": "points_elixir_potions.png",
-        "pools": [
-            "0x40dfa8e644744253f72cab80dfdd1022c30baab7"
-        ]
+        "pools": ["0x40dfa8e644744253f72cab80dfdd1022c30baab7"]
     },
     {
         "id": "points_mainstreet",
