@@ -4,6 +4,7 @@
         "name": "Aave Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Aave tokens, which generate yield from lending activities on the Aave protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "aave_boosted.png",
+        "readMoreURL": "https://aave.com/faq",
         "addresses": {
             "1": [
                 "0x0bfc9d54Fc184518A81162F8fB99c2eACa081202",
@@ -115,6 +116,7 @@
         "name": "Silo Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo tokens, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "silo_boosted.png",
+        "readMoreURL": "https://docs.silo.finance/docs/users/core-concepts/silo/isolated-pairs",
         "addresses": {
             "146": [
                 "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
@@ -130,13 +132,8 @@
                 "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
                 "0x42CE2234fd5a26bF161477a996961c4d01F466a3"
             ],
-            "43114 ": [
-                "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8",
-                "0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3"
-            ],
-            "42161": [
-                "0x2BA39e5388aC6C702Cb29AEA78d52aa66832f1ee"
-            ]
+            "43114 ": ["0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8", "0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3"],
+            "42161": ["0x2BA39e5388aC6C702Cb29AEA78d52aa66832f1ee"]
         }
     },
     {
@@ -144,6 +141,7 @@
         "name": "Varlamore Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by Varlamore. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "varlamore_boosted.png",
+        "readMoreURL": "https://docs.silo.finance/docs/users/core-concepts/managed-vaults/",
         "addresses": {
             "146": [
                 "0xF6F87073cF8929C206A77b0694619DC776F89885",
@@ -158,6 +156,7 @@
         "name": "Greenhouse Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by Greenhouse. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "silo_boosted.png",
+        "readMoreURL": "https://docs.silo.finance/docs/users/core-concepts/managed-vaults/",
         "addresses": {
             "146": ["0xf6bC16B79c469b94Cdd25F3e2334DD4FEE47A581"]
         }
@@ -167,6 +166,7 @@
         "name": "Re7 Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by re7. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "re7_boosted.png",
+        "readMoreURL": "https://docs.silo.finance/docs/users/core-concepts/managed-vaults/",
         "addresses": {
             "146": ["0x592d1e187729c76efacc6dffb9355bd7bf47b2a7"]
         }
@@ -176,6 +176,7 @@
         "name": "Trevee Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by Trevee. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "trevee_boosted.png",
+        "readMoreURL": "https://docs.silo.finance/docs/users/core-concepts/managed-vaults/",
         "addresses": {
             "146": ["0x391b3F70E254d582588B27e97E48D1CFcdf0BE7e"]
         }
@@ -185,6 +186,7 @@
         "name": "Gami Boosted",
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by Gami Capital. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "silo_boosted.png",
+        "readMoreURL": "https://docs.silo.finance/docs/users/core-concepts/managed-vaults/",
         "addresses": {
             "146": ["0x92ebf5a1fb4061b45222a6d76accf4698bde4b95"]
         }
@@ -204,10 +206,7 @@
                 "0x51b47b3013863c52ca28d603de3c2d7a5fef50b9",
                 "0xFECebF56f150A68dDd197c3a6101da35C46693Ac"
             ],
-            "146": [
-                "0x90a804D316A06E00755444D56b9eF52e5C4F4D73",
-                "0x6832F3090867449c058e1e3088E552E12AB18F9E"
-            ],
+            "146": ["0x90a804D316A06E00755444D56b9eF52e5C4F4D73", "0x6832F3090867449c058e1e3088E552E12AB18F9E"],
             "42161": ["0xe4783824593a50Bfe9dc873204CEc171ebC62dE0"]
         }
     },
@@ -322,9 +321,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by Yearn vault tokens, which generate yield from automated strategies that deploy assets across DeFi protocols. Yearn vaults aggregate user deposits and optimize yield through active position management, compounding rewards, and reallocating capital to the most efficient opportunities.",
         "icon": "yearn_boosted.png",
         "addresses": {
-            "42161": [
-                "0x252b965400862d94bda35fecf7ee0f204a53cc36"
-            ]
+            "42161": ["0x252b965400862d94bda35fecf7ee0f204a53cc36"]
         }
     },
     {
@@ -349,7 +346,7 @@
             ]
         }
     },
-    
+
     {
         "id": "boosted_hypurrfi",
         "name": "HypurrFi Boosted",
