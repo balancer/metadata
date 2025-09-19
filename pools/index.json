@@ -22,7 +22,7 @@
         },
         "0xcb80b1a9e7b319a4c5ec6b0666967ca1e309e40f": {
             "warning": {
-                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. Please read through the \"Pool risks\" before adding liquidity to this pool.",
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. The swap fee APR does NOT reflect expected returns. Please read through the \"Pool risks\" before adding liquidity to this pool.",
                 "type": "error"
             },
             "addLiquidityWarning": {
@@ -32,7 +32,7 @@
         },
         "0xf09e25b0f5974ec9caf26df4c2f57f4152e46069": {
             "warning": {
-                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. Please read through the \"Pool risks\" before adding liquidity to this pool.",
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. The swap fee APR does NOT reflect expected returns. Please read through the \"Pool risks\" before adding liquidity to this pool.",
                 "type": "error"
             },
             "addLiquidityWarning": {
@@ -42,7 +42,7 @@
         },
         "0xdebd41b1f3f672ea4153ab7ba1a59eb0d6f3a774": {
             "warning": {
-                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. Please read through the \"Pool risks\" before adding liquidity to this pool.",
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. The swap fee APR does NOT reflect expected returns. Please read through the \"Pool risks\" before adding liquidity to this pool.",
                 "type": "error"
             },
             "addLiquidityWarning": {
@@ -52,7 +52,7 @@
         },
         "0x88c044fb203b58b12252be7242926b1eeb113b4a": {
             "warning": {
-                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. Please read through the \"Pool risks\" before adding liquidity to this pool.",
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. The swap fee APR does NOT reflect expected returns. Please read through the \"Pool risks\" before adding liquidity to this pool.",
                 "type": "error"
             },
             "addLiquidityWarning": {
@@ -64,7 +64,7 @@
     "42161": {
         "0x4f073d894d8d3f43810ff1662d1792d9e32fe2ec": {
             "warning": {
-                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. Please read through the \"Pool risks\" before adding liquidity to this pool.",
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. The swap fee APR does NOT reflect expected returns. Please read through the \"Pool risks\" before adding liquidity to this pool.",
                 "type": "error"
             },
             "addLiquidityWarning": {
