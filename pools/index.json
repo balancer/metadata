@@ -73,6 +73,18 @@
             }
         }
     },
+    "999": {
+        "0x5557a7cbb2f35825eab8cf0781de0314546176dc": {
+            "warning": {
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk. The swap fee APR does NOT reflect expected returns. Please read through the \"Pool risks\" before adding liquidity to this pool.",
+                "type": "error"
+            },
+            "addLiquidityWarning": {
+                "text": "This pool leverages an external oracle to price the underlying assets. It is highly experimental and should be used at your own risk.",
+                "type": "error"
+            }
+        }
+    },
     "146": {
         "0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8": {
             "warning": {
