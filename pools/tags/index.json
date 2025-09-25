@@ -714,7 +714,8 @@
         "value": "30",
         "url": "https://mainstreet.finance/rewards/campaigns/",
         "icon": "points_gamma.png",
-        "pools": ["0x0ae7fbbe97ef6387150f3ec31dac0bcca34a15ef", "0x3d71ad2852676f8a3644a37a2932e678c0b80cf3"]
+
+        "pools": ["0x0ae7fbbe97ef6387150f3ec31dac0bcca34a15ef", "0x3d71ad2852676f8a3644a37a2932e678c0b80cf3", "0x412cefccba5033f14b3a3dbc759075a657cbf31c"]
     },
     {
         "id": "points_usdai_10x",
