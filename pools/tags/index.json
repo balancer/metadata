@@ -724,7 +724,7 @@
         ]
     },
     {
-        "id": "points_usdai_10x",
+        "id": "points_usdai_10x_usdai",
         "name": "Allo™",
         "description": "USD.AI's native points towards the ICO alignment.",
         "value": "10",
@@ -733,7 +733,7 @@
         "pools": ["0x01e2c7fcde2b8d5d1413732c4e274ba5b06b1e54"]
     },
     {
-        "id": "points_usdai_10x",
+        "id": "points_usdai_10x_susdai",
         "name": "Allo™",
         "description": "USD.AI's native points towards the Airdrop alignment.",
         "value": "10",
