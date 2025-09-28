@@ -740,5 +740,16 @@
         "url": "https://app.usd.ai/?alignment=airdrop",
         "icon": "points_usdai.png",
         "pools": ["0xb3ca3ead1c59ded552cd30a6992038284b418b65"]
+    },
+    {
+        "id": "points_kelp_2x",
+        "name": "Kernel Points",
+        "description": "Kernel Points are a native points program that rewards users for depositing assets into the KernelDAO ecosystem.",
+        "value": "2",
+        "url": "https://kelpdao.xyz",
+        "icon": "points_kelp.jpg",
+        "pools": [
+            "0x05EB2d848c431B1a37D0cF0eEcc7F211b3bb1dee"
+        ]
     }
 ]
