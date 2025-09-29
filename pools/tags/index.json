@@ -248,7 +248,8 @@
             "0x241df159b03a90455edee61625655fc0ea5fa3dd0002000000000000000003fc",
             "0xf578d7ed134c52e407363bb0c06b369e212d32700002000000000000000003f5",
             "0xefc48777995d125147db01b340aad3986efb6ec0",
-            "0xf39f82ec61944e7067c18e1622b498b0c20233b3"
+            "0xf39f82ec61944e7067c18e1622b498b0c20233b3",
+            "0x5103ea917605463fc497396ba89d6732ce4b2d70"
         ]
     },
     {
@@ -748,8 +749,6 @@
         "value": "2",
         "url": "https://kelpdao.xyz",
         "icon": "points_kelp.jpg",
-        "pools": [
-            "0x05EB2d848c431B1a37D0cF0eEcc7F211b3bb1dee"
-        ]
+        "pools": ["0x05EB2d848c431B1a37D0cF0eEcc7F211b3bb1dee"]
     }
 ]
