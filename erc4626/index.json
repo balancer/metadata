@@ -376,5 +376,16 @@
                 "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe"
             ]
         }
+    },
+    {
+        "id": "boosted_gearbox",
+        "name": "Gearbox Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Gearbox tokens, which generate yield from lending activities on the Gearbox protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "gearbox_boosted.png",
+        "addresses": {
+            "9745": [
+                "0x76309a9a56309104518847bba321c261b7b4a43f"
+            ]
+        }
     }
 ]
