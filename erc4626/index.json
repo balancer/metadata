@@ -388,5 +388,16 @@
                 "0x76309a9a56309104518847bba321c261b7b4a43f"
             ]
         }
+    },
+    {
+        "id": "boosted_usdd",
+        "name": "Usdd Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by sUSDD, which is a yield bearing version of USDD",
+        "icon": "usdd_boosted.png",
+        "addresses": {
+            "1": [
+                "0xc5d6a7b61d18afa11435a889557b068bb9f29930"
+            ]
+        }
     }
 ]
