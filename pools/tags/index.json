@@ -251,7 +251,6 @@
             "0xf39f82ec61944e7067c18e1622b498b0c20233b3",
             "0x5103ea917605463fc497396ba89d6732ce4b2d70",
             "0x3050b23bf53956069eba4b486c04e9f306bfbc68",
-            "0x02e84edccf97e54bfb505b478da1d931dda13d78",
             "0xc12ac6e612d790993d697edc2824ce90c4ad7891",
             "0x22eda970762ccd345e02ccea8c6128f38e8927eb"
         ]
@@ -636,7 +635,7 @@
         "id": "points_falcon",
         "name": "Points (Falcon)",
         "description": "LPs earns Falcon's Miles based on the TVL of the pool",
-        "value": "20",
+        "value": "40",
         "url": "https://app.falcon.finance/miles",
         "icon": "points_falcon.png",
         "pools": ["0x6c5972311191097d002e804a9bf97c96c54059ed"]
