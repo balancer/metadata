@@ -753,5 +753,14 @@
         "url": "https://kelpdao.xyz",
         "icon": "points_kelp.jpg",
         "pools": ["0x05EB2d848c431B1a37D0cF0eEcc7F211b3bb1dee"]
+    },
+    {
+        "id": "points_usdx_season2_3x",
+        "name": "S-Points",
+        "description": "Points for USDX's S2 campaign",
+        "value": "3",
+        "url": "https://https://app.usdx.money/",
+        "icon": "points_usdx_s2.png",
+        "pools": ["0x82605af6D40797668e06b671E720889ec84EAcba"]
     }
 ]
