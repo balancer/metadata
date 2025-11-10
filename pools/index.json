@@ -14,6 +14,26 @@
                 "text": "Please consider migrating liquidity to the new Boosted osETH pool on Balancer V3, address: 0x57c23c58b1d8c3292c15becf07c62c5c52457a42",
                 "type": "warning"
             }
+        },
+        "0x1e19cf2d73a72ef1332c882f20534b6519be0276": {
+            "warning": {
+                "text": "This pool type has been deprecated. Please consider migrating to a Balancer v3 liquidity pool.",
+                "type": "warning"
+            }
+        },
+        "0x32296969ef14eb0c6d29669c550d4a044913023": {
+            "warning": {
+                "text": "This pool type has been deprecated. Please consider migrating to a Balancer v3 liquidity pool.",
+                "type": "warning"
+            }
+        }
+    },
+    "10": {
+        "0x4fd63966879300cafafbb35d157dc5229278ed23": {
+            "warning": {
+                "text": "This pool type has been deprecated. Please consider migrating to a Balancer v3 liquidity pool.",
+                "type": "warning"
+            }
         }
     },
     "8453": {
