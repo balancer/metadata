@@ -605,5 +605,16 @@
         "url": "https://https://app.usdx.money/",
         "icon": "points_usdx_s2.png",
         "pools": ["0x82605af6D40797668e06b671E720889ec84EAcba"]
+    },
+    {
+        "id": "points_ebisu_5x",
+        "name": "XEBISU",
+        "description": "Ebisu's tokenized point",
+        "value": "5",
+        "url": "https://ebisu.money/xebisu",
+        "icon": "points_xebisu.png",
+        "pools": [
+            "0x72598b1682ea78e8f2f7bf42a2f2d01e06781587"
+        ]
     }
 ]
