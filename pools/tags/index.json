@@ -616,5 +616,16 @@
         "pools": [
             "0x36151aCeb3e2e1442d6239e7651ee3fa676c0936"
         ]
+    },
+    {
+        "id": "points_chateau_7x",
+        "name": "Macarons",
+        "description": "Earn Macarons for using chUSD and schUSD",
+        "value": "7",
+        "url": "https://app.chateau.capital/leaderboard",
+        "icon": "points_chateau.png",
+        "pools": [
+            "0x307906F2e1B275c76993c81d9C536dE5492337B7"
+        ]
     }
 ]
