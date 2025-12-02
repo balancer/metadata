@@ -39,6 +39,12 @@ jobs:
           schema: ./schemas/pool-tags.json
           file: ./pools/tags/index.json
 
+      - name: Validate pool migrations
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          schema: ./schemas/migration.json
+          file: ./pools/migration.json
+
       - name: Validate hooks
         uses: cardinalby/schema-validator-action@v3
         with:

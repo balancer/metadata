@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://balancer.fi/migration.json",
+  "definitions": {
+    "poolInfo": {
+      "type": "object",
+      "properties": {
+        "protocol": {
+          "type": "integer",
+          "enum": [2, 3]
+        },
+        "chainId": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "id": {
+          "type": "string",
+          "pattern": "^0x[0-9a-z]+$"
+        }
+      },
+      "required": ["protocol", "chainId", "id"]
+    }
+  },
+  "title": "Pool migrations",
+  "description": "A list of liquidity pools that need to migrate liquidity",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "old": {
+        "$ref": "#/definitions/poolInfo"
+      },
+      "new": {
+        "$ref": "#/definitions/poolInfo"
+      }
+    },
+    "required": ["old", "new"]
+  }
+}
