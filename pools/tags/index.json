@@ -329,19 +329,6 @@
         ]
     },
     {
-        "id": "points_dtrinity_50x",
-        "name": "dT Points",
-        "description": "Earn 50x dT Points",
-        "value": "50",
-        "url": "https://docs.dtrinity.org/key-concepts/points-program",
-        "icon": "points_dt.png",
-        "pools": [
-            "0x2585d4325b3ccdc69e5e3b6cdcbedbe7c9774612",
-            "0x90cd82715cbc4d638656c1192a4b5ed1c476c103",
-            "0x790fd3e9b42a3955cb1b286fbfa1ac67043a69ef"
-        ]
-    },
-    {
         "id": "points_coinshift",
         "name": "SHIFT Rewards",
         "description": "LPs in this pool earn up to 25% APY in SHIFT rewards.",
@@ -613,9 +600,7 @@
         "value": "5",
         "url": "https://ebisu.money/xebisu",
         "icon": "points_xebisu.png",
-        "pools": [
-            "0x36151aCeb3e2e1442d6239e7651ee3fa676c0936"
-        ]
+        "pools": ["0x36151aCeb3e2e1442d6239e7651ee3fa676c0936"]
     },
     {
         "id": "points_chateau_7x",
@@ -624,8 +609,6 @@
         "value": "7",
         "url": "https://app.chateau.capital/leaderboard",
         "icon": "points_chateau.png",
-        "pools": [
-            "0x307906F2e1B275c76993c81d9C536dE5492337B7"
-        ]
+        "pools": ["0x307906F2e1B275c76993c81d9C536dE5492337B7"]
     }
 ]
