@@ -610,5 +610,23 @@
         "url": "https://app.chateau.capital/leaderboard",
         "icon": "points_chateau.png",
         "pools": ["0x307906F2e1B275c76993c81d9C536dE5492337B7"]
+    },
+    {
+        "id": "points_yuzu_8x",
+        "name": "Yuzu Juice",
+        "description": "A points program designed to track user activity and contribution to the Yuzu ecosystem. Yuzu Juice will be linearly converted into tokens at TGE.",
+        "value": "8",
+        "url": "https://app.yuzu.money/points/overview",
+        "icon": "points_yuzu.png",
+        "pools": ["0xb2c3d76da9cc97e2fc5622d4040bb55cb50a0848"]
+    },
+    {
+        "id": "points_yuzu_4x",
+        "name": "Yuzu Juice",
+        "description": "A points program designed to track user activity and contribution to the Yuzu ecosystem. Yuzu Juice will be linearly converted into tokens at TGE.",
+        "value": "4",
+        "url": "https://app.yuzu.money/points/overview",
+        "icon": "points_yuzu.png",
+        "pools": ["0xd931775d9aca9859c9fdc53c63ae32ef21551492"]
     }
 ]
