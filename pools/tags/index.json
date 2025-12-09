@@ -444,9 +444,9 @@
         "pools": ["0x733f2d3f66d3f41bde65d95321a19a1e55bb5470"]
     },
     {
-        "id": "points_infinifi_1.5x",
+        "id": "points_infinifi_2.25x",
         "name": "infiniFi Points",
-        "value": "1.5",
+        "value": "2.25",
         "description": "infiniFi points",
         "url": "https://infinifi.xyz/",
         "icon": "infinifi_points.png",
