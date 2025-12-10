@@ -636,6 +636,6 @@
         "value": "4",
         "url": "https://app.yuzu.money/points/overview",
         "icon": "points_yuzu.png",
-        "pools": ["0xd931775d9aca9859c9fdc53c63ae32ef21551492"]
+        "pools": ["0xd931775d9aca9859c9fdc53c63ae32ef21551492", "0xE141a9b6EaeB2006460a5c335C83444aef33d9F0"]
     }
 ]
