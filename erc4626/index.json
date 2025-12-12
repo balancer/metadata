@@ -139,7 +139,12 @@
                 "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
                 "0x42CE2234fd5a26bF161477a996961c4d01F466a3"
             ],
-            "43114 ": ["0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8", "0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3"],
+            "43114 ": [
+                "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8",
+                "0x1f8E769B5B6010B2C2BBCd68629EA1a0a0Eda7E3",
+                "0x1F0570a081FeE0e4dF6eAC470f9d2D53CDEDa1c5"
+            ],
+
             "42161": ["0x2BA39e5388aC6C702Cb29AEA78d52aa66832f1ee"],
             "1": ["0x8399C8Fc273bD165C346Af74A02e65f10e4FD78F"]
         }
