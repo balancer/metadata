@@ -637,5 +637,14 @@
         "url": "https://app.yuzu.money/points/overview",
         "icon": "points_yuzu.png",
         "pools": ["0xd931775d9aca9859c9fdc53c63ae32ef21551492"]
+    },
+    {
+        "id": "points_metronome_1.5x",
+        "name": "Odyssey XP",
+        "value": "1.5",
+        "description": "Odyssey's native XP points that enhance your standing on the pre-TGE leaderboard.",
+        "url": "https://app.fuul.xyz/incentives/odyssey-finance",
+        "icon": "odyssey_points.png",
+        "pools": ["0x7a1f882Cc27D9113aC19E49b542E06Aae3Bbb2eF"]
     }
 ]
