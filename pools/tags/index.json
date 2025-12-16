@@ -541,7 +541,16 @@
         "value": "2",
         "url": "https://www.nerite.org/writing/shells",
         "icon": "points_nerite.png",
-        "pools": ["0x483bc7fe92fc392305dd97d4d3363e0e0a7f144d", "0xf87acdaff1b21db4b4906aa74816b0aaa8fdfdc0"]
+        "pools": ["0xf87acdaff1b21db4b4906aa74816b0aaa8fdfdc0"]
+    },
+    {
+        "id": "points_nerite_20x",
+        "name": "Nerite Shell Points",
+        "description": "Shell Points are Nerite's native loyalty reward system. Shell Points are real tokens, on Arbitrum. They are untradable (currently), but can be easily shown in your wallet, onchain analytics services like Dune, or portfolio trackers. This makes the system considerably more transparent and easier to track publicly.",
+        "value": "20",
+        "url": "https://www.nerite.org/writing/shells",
+        "icon": "points_nerite.png",
+        "pools": ["0x483bc7fe92fc392305dd97d4d3363e0e0a7f144d"]
     },
     {
         "id": "points_elixir_5x",
