@@ -406,5 +406,16 @@
                 "0xc5d6a7b61d18afa11435a889557b068bb9f29930"
             ]
         }
+    },
+    {
+        "id": "boosted_falcon",
+        "name": "Falcon Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by Falcon Finance",
+        "icon": "falcon_boosted.png",
+        "addresses": {
+            "1": [
+                "0xc8cf6d7991f15525488b2a83df53468d682ba4b0"
+            ]
+        }
     }
 ]
