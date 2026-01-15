@@ -646,5 +646,13 @@
         "url": "https://app.fuul.xyz/incentives/odyssey-finance",
         "icon": "odyssey_points.png",
         "pools": ["0x7a1f882Cc27D9113aC19E49b542E06Aae3Bbb2eF"]
+    },
+    {
+        "id": "points_TxONE",
+        "name": "TxONE",
+        "description": "TxONE is the TrenDex.One utility token used for staking and participation in the prediction ecosystem, where users may stake to access rewards derived from platform activity and revenue distribution, with reward levels varying based on overall usage.",
+        "url": "https://www.trendex.one",
+        "icon": "TxONE.png",
+        "pools": ["0x323C05bc83C549e2E3DEbA1BB6800a63e7220f24"]
     }
 ]
