@@ -645,5 +645,23 @@
         "url": "https://app.fuul.xyz/incentives/odyssey-finance",
         "icon": "odyssey_points.png",
         "pools": ["0x7a1f882Cc27D9113aC19E49b542E06Aae3Bbb2eF"]
+    },
+    {
+        "id": "points_magma_3x",
+        "name": "Magma Points",
+        "value": "3",
+        "description": "Magma Points are a proof-of-commitment system that rewards long-term staking, ecosystem participation, and community alignment within the Magma ecosystem.",
+        "url": "https://www.magmastaking.xyz/points",
+        "icon": "magma_points.png",
+        "pools": ["0xbf30cbdea179330683b4865ab7348ca8e05b9c6e"]
+    },
+    {
+        "id": "points_yuzu_5x",
+        "name": "Yuzu Juice",
+        "description": "A points program designed to track user activity and contribution to the Yuzu ecosystem. Yuzu Juice will be linearly converted into tokens at TGE.",
+        "value": "5",
+        "url": "https://app.yuzu.money/points/overview",
+        "icon": "points_yuzu.png",
+        "pools": ["0x30ac51001ddc10d7cada5aa4d695a6f89057a40a"]
     }
 ]
