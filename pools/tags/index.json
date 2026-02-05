@@ -645,5 +645,14 @@
         "url": "https://app.fuul.xyz/incentives/odyssey-finance",
         "icon": "odyssey_points.png",
         "pools": ["0x7a1f882Cc27D9113aC19E49b542E06Aae3Bbb2eF"]
+    },
+    {
+        "id": "points_magma_3x",
+        "name": "Magma Points",
+        "value": "3",
+        "description": "Magma Points are a proof-of-commitment system that rewards long-term staking, ecosystem participation, and community alignment within the Magma ecosystem.",
+        "url": "https://www.magmastaking.xyz/points",
+        "icon": "magma_points.png",
+        "pools": ["0xbf30cbdea179330683b4865ab7348ca8e05b9c6e"]
     }
 ]
