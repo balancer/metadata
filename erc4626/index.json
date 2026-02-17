@@ -421,7 +421,7 @@
     {
         "id": "boosted_curvance",
         "name": "Curvance Boosted",
-        "description": "his Boosted pool's underlying mechanics are powered by wrapped Curvance tokens, which generate yield from lending activities on the Curvance protocol, resulting in continuous appreciation of the pool's total value.",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Curvance tokens, which generate yield from lending activities on the Curvance protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "curvance_boosted.png",
         "addresses": {
             "143": [
