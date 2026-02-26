@@ -394,15 +394,6 @@
         "pools": ["0x046dccb728c39f8aa69e47dac0ebdad8d2cddfe9", "0xed487afc303358d528fe76781ebd03a7470a9712"]
     },
     {
-        "id": "points_resolv",
-        "name": "Resolv",
-        "description": "LPs earn Resolv Points on the TVL in the pool. The points boost increases rewards based on the total pool capital, not just USR. Your daily Resolv points value is calculated and distributed based upon your share of the liquidity pool",
-        "value": "30",
-        "url": "https://resolv.xyz/",
-        "icon": "resolv.svg",
-        "pools": ["0x5b14ce8de84448e9a6f6af652af318472aa4fcaf", "0xed487afc303358d528fe76781ebd03a7470a9712"]
-    },
-    {
         "id": "points_turtle_inception_points",
         "name": "Turtle InceptionLRT Points",
         "description": "Receives Turtle InceptionLRT points",
@@ -486,15 +477,6 @@
         "url": "https://app.falcon.finance/miles",
         "icon": "points_falcon.png",
         "pools": ["0x6c5972311191097d002e804a9bf97c96c54059ed"]
-    },
-    {
-        "id": "points_resolv_extrafi",
-        "name": "Resolv",
-        "description": "LPs earn Resolv Points on the TVL in the pool. The points boost increases rewards based on the total pool capital, not just USR. Your daily Resolv points value is calculated and distributed based upon your share of the liquidity pool",
-        "value": "30",
-        "url": "https://resolv.xyz/",
-        "icon": "resolv.svg",
-        "pools": ["0xe3a85e913f967406823cde9c390ae7bad9496367"]
     },
     {
         "id": "points_yo",
