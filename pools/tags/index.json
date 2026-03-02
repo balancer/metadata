@@ -643,7 +643,7 @@
         "description": "Magma Points are a proof-of-commitment system that rewards long-term staking, ecosystem participation, and community alignment within the Magma ecosystem.",
         "url": "https://www.magmastaking.xyz/points",
         "icon": "magma_points.png",
-        "pools": ["0xb121734bd471a19743fb44433c58babcbe281467"]
+        "pools": ["0xb121734bd471a19743fb44433c58babcbe281467", "0xc0abfaa62331db4bee1d3904b86310c5d120e045"]
     },
     {
         "id": "points_yuzu_5x",
