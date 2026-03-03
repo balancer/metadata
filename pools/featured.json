@@ -1,21 +1,21 @@
 [
     {
-        "id": "0x8207c7541ce31b38dbd46890f2a832cf1ef7c512",
-        "imageUrl": "https://v3.balancer.fi/images/chains/HYPEREVM.svg",
-        "chainId": 999,
+        "id": "0x2daa146dfb7eaef0038f9f15b2ec1e4de003f72b",
+        "imageUrl": "https://v3.balancer.fi/images/chains/MONAD.svg",
+        "chainId": 143,
         "primary": true,
-        "description": "Balancer v3 on HyperEVM"
+        "description": "Balancer StableSurge USD on Monad"
+    },
+    {
+        "id": "0x7ab124ec4029316c2a42f713828ddf2a192b36db",
+        "imageUrl": "https://v3.balancer.fi/images/chains/BASE.svg",
+        "chainId": 8453,
+        "description": "StableSurge Boosted USD on Base"
     },
     {
         "id": "0x85b2b559bc2d21104c4defdd6efca8a20343361d",
         "imageUrl": "https://v3.balancer.fi/images/chains/MAINNET.svg",
         "chainId": 1,
-        "description": "100% boosted USD pool"
-    },
-    {
-        "id": "0x19aeb8168d921bb069c6771bbaff7c09116720d0",
-        "imageUrl": "https://v3.balancer.fi/images/chains/BASE.svg",
-        "chainId": 8453,
-        "description": "New reCLAMM pool on Base"
+        "description": "100% boosted 3-token USD pool"
     }
 ]
