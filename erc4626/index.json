@@ -439,8 +439,8 @@
     },
     {
         "id": "boosted_neverland",
-        "name": "NeverLand Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped NeverLand tokens, which generate yield from lending activities on the NeverLand protocol, resulting in continuous appreciation of the pool's total value.",
+        "name": "Neverland Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Neverland tokens, which generate yield from lending activities on the Neverland protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "neverland_boosted.png",
         "addresses": {
             "143": [
