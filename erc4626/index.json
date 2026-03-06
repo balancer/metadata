@@ -457,5 +457,16 @@
                 "0xD786F7569C39A9F64E6A54Eb77db21364E90F279"
             ]
         }
+    },
+    {
+        "id": "boosted_inverse",
+        "name": "Inverse Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by staked Inverse tokens, which generate organic yield from Inverse Finance's FiRM fixed rate lending market revenues",
+        "icon": "inverse_boosted.png",
+        "addresses": {
+            "1": [
+                "0xb45ad160634c528cc3d2926d9807104fa3157305"
+            ]
+        }
     }
 ]
