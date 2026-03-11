@@ -141,7 +141,8 @@
                 "0xe6605932e4a686534D19005BB9dB0FBA1F101272",
                 "0x24c74B30d1a4261608E84Bf5a618693032681DAc",
                 "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
-                "0x42CE2234fd5a26bF161477a996961c4d01F466a3"
+                "0x42CE2234fd5a26bF161477a996961c4d01F466a3",
+                "0x423a7a5709213dea0f0c2368e5fb16338c87bba7"
             ],
             "43114 ": [
                 "0x4dc1ce9b9f9EF00c144BfAD305f16c62293dC0E8",
@@ -224,13 +225,8 @@
                 "0x51b47b3013863c52ca28d603de3c2d7a5fef50b9",
                 "0xFECebF56f150A68dDd197c3a6101da35C46693Ac"
             ],
-            "146": [
-                "0x90a804D316A06E00755444D56b9eF52e5C4F4D73", 
-                "0x6832F3090867449c058e1e3088E552E12AB18F9E"
-            ],
-            "42161": [
-                "0xe4783824593a50Bfe9dc873204CEc171ebC62dE0"
-            ],
+            "146": ["0x90a804D316A06E00755444D56b9eF52e5C4F4D73", "0x6832F3090867449c058e1e3088E552E12AB18F9E"],
+            "42161": ["0xe4783824593a50Bfe9dc873204CEc171ebC62dE0"],
             "9745": [
                 "0xa9C251F8304b1B3Fc2b9e8fcae78D94Eff82Ac66",
                 "0x9c46EE1f01d2b551048F5fF99a4659D98d04BED1",
@@ -397,9 +393,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by wrapped Gearbox tokens, which generate yield from lending activities on the Gearbox protocol, resulting in continuous appreciation of the pool's total value.",
         "icon": "gearbox_boosted.png",
         "addresses": {
-            "9745": [
-                "0x76309a9a56309104518847bba321c261b7b4a43f"
-            ]
+            "9745": ["0x76309a9a56309104518847bba321c261b7b4a43f"]
         }
     },
     {
@@ -408,9 +402,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by sUSDD, which is a yield bearing version of USDD",
         "icon": "usdd_boosted.png",
         "addresses": {
-            "1": [
-                "0xc5d6a7b61d18afa11435a889557b068bb9f29930"
-            ]
+            "1": ["0xc5d6a7b61d18afa11435a889557b068bb9f29930"]
         }
     },
     {
@@ -419,9 +411,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by Falcon Finance",
         "icon": "falcon_boosted.png",
         "addresses": {
-            "1": [
-                "0xc8cf6d7991f15525488b2a83df53468d682ba4b0"
-            ]
+            "1": ["0xc8cf6d7991f15525488b2a83df53468d682ba4b0"]
         }
     },
     {
@@ -464,9 +454,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by staked Inverse tokens, which generate organic yield from Inverse Finance's FiRM fixed rate lending market revenues",
         "icon": "inverse_boosted.png",
         "addresses": {
-            "1": [
-                "0xb45ad160634c528cc3d2926d9807104fa3157305"
-            ]
+            "1": ["0xb45ad160634c528cc3d2926d9807104fa3157305"]
         }
     }
 ]
