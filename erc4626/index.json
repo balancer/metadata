@@ -465,5 +465,14 @@
         "addresses": {
             "1": ["0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"]
         }
+    },
+    {
+        "id": "boosted_frakencoin",
+        "name": "Frakencoin Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Frakencoin tokens, which generate yield from the Frakencoin protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "frakencoin_boosted.png",
+        "addresses": {
+            "1": ["0xe5f130253ff137f9917c0107659a4c5262abf6b0"]
+        }
     }
 ]
