@@ -456,5 +456,14 @@
         "addresses": {
             "1": ["0xb45ad160634c528cc3d2926d9807104fa3157305"]
         }
+    },
+    {
+        "id": "boosted_spark",
+        "name": "Spark Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by wrapped Spark tokens, which generate yield from the Sky protocol, resulting in continuous appreciation of the pool's total value.",
+        "icon": "spark_boosted.png",
+        "addresses": {
+            "1": ["0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"]
+        }
     }
 ]
