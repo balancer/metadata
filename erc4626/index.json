@@ -346,7 +346,8 @@
         "description": "This Boosted pool's underlying mechanics are powered by Yearn vault tokens, which generate yield from automated strategies that deploy assets across DeFi protocols. Yearn vaults aggregate user deposits and optimize yield through active position management, compounding rewards, and reallocating capital to the most efficient opportunities.",
         "icon": "yearn_boosted.png",
         "addresses": {
-            "42161": ["0x252b965400862d94bda35fecf7ee0f204a53cc36"]
+            "42161": ["0x252b965400862d94bda35fecf7ee0f204a53cc36"],
+            "1": ["0x9F4330700a36B29952869fac9b33f45EEdd8A3d8"]
         }
     },
     {
