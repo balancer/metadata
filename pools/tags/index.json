@@ -667,5 +667,13 @@
         "url": "https://www.trendex.one",
         "icon": "TxONE.png",
         "pools": ["0x323C05bc83C549e2E3DEbA1BB6800a63e7220f24"]
+    },
+    {
+        "id": "points_fastlane",
+        "name": "Fastlane Points",
+        "description": "ShMonad is a liquid staking token for the Monad blockchain built by Fastlane Labs. The protocol generates yield from multiple revenue streams, including staking emissions, priority fees, MEV and fees earned with select partner dApps.",
+        "url": "https://www.fastlane.xyz/",
+        "icon": "fastlane.png",
+        "pools": ["0x340fa62ae58e90473da64b0af622cdd6113106cb"]
     }
 ]
