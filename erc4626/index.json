@@ -481,5 +481,14 @@
         "addresses": {
             "1": ["0xe5f130253ff137f9917c0107659a4c5262abf6b0"]
         }
+    },
+    {
+        "id": "boosted_tangent",
+        "name": "Tangent Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by sUSG, the yield-bearing savings version of Tangent's USG stablecoin, which accrues a share of Tangent protocol revenues and appreciates over time.",
+        "icon": "tangent_boosted.png",
+        "addresses": {
+            "1": ["0xf17d6f98a5c6eaa99d149079984119e0a4ef6900"]
+        }
     }
 ]
