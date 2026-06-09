@@ -221,6 +221,7 @@
         "icon": "euler_boosted.png",
         "readMoreURL": "https://docs.euler.finance/concepts/core/evc",
         "addresses": {
+            "143": ["0xe1bca19baa63894d374578320551633320436523"],
             "43114": [
                 "0x5030183b3dd0105d69d7d45595c120fc4b542ec3",
                 "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
