@@ -776,7 +776,7 @@
         "value": "5",
         "url": "https://app.yuzu.money/points/overview",
         "icon": "points_yuzu.png",
-        "pools": ["0xc71c30914bc7790218b1adee782ba307b7867b08"]
+        "pools": ["0xc71c30914bc7790218b1adee782ba307b7867b08", "0x0626c7bcd2fd1f6072044b7ff2050301d9f7d6b3"]
     },
     {
         "id": "points_TxONE",
