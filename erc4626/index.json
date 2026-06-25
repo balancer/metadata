@@ -485,5 +485,14 @@
         "addresses": {
             "1": ["0xf17d6f98a5c6eaa99d149079984119e0a4ef6900"]
         }
+    },
+    {
+        "id": "boosted_hastra",
+        "name": "Hastra Boosted",
+        "description": "This Boosted pool's underlying mechanics are powered by PRIME, the staked version of wYLDS, which earns yield from Figure's Democratized Prime HELOC real-world lending pools, resulting in continuous appreciation of the pool's total value.",
+        "icon": "hastra_boosted.png",
+        "addresses": {
+            "1": ["0x19ebb35279a16207ec4ba82799cc64715065f7f6"]
+        }
     }
 ]
