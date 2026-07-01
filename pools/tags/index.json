@@ -802,6 +802,7 @@
         "name": "Tangent Points",
         "description": "Liquidity providers on this pool earn Tangent points.",
         "url": "https://app.tangent.finance/tasks",
+        "icon": "points_tangent.png",
         "pools": ["0xe858f8c6e0BA60Fed092ac0b21681fd4cdE4fa11"]
     }
 ]
