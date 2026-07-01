@@ -796,5 +796,12 @@
         "url": "https://www.fastlane.xyz/",
         "icon": "fastlane.png",
         "pools": ["0x340fa62ae58e90473da64b0af622cdd6113106cb"]
+    },
+    {
+        "id": "points_tangent",
+        "name": "Tangent Points",
+        "description": "Liquidity providers on this pool earn Tangent points.",
+        "url": "https://app.tangent.finance/tasks",
+        "pools": ["0xe858f8c6e0BA60Fed092ac0b21681fd4cdE4fa11"]
     }
 ]
