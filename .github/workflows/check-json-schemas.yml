@@ -1,5 +1,7 @@
 name: Check JSON Schemas
-on: [push]
+on:
+  push:
+  pull_request:
 
 jobs:
   Check-JSON-Schemas:
